@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+img { max-width: 10%; }
+
+[class*=col] { padding: 0; }
+[class*="grid-"], [class*="grid_"], [class~="grid"] { margin: 0; }
+
+html { scroll-behavior: smooth;}
