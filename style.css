@@ -10,3 +10,188 @@ img { max-width: 10%; }
 [class*="grid-"], [class*="grid_"], [class~="grid"] { margin: 0; }
 
 html { scroll-behavior: smooth;}
+
+/******************** Utility Classes ********************/
+
+/******************** Padding ********************/
+
+.padded-sm { padding: 2.5%; }
+.padded    { padding: 5%;   }
+.padded-lg { padding: 10%;  }
+
+.padded-05 { padding: 0.5rem; }
+.padded-1  { padding: 1rem; }
+.padded-2  { padding: 2rem; }
+
+.padded-t  { padding-top: 5%; }
+.padded-b  { padding-bottom: 5%; }
+.padded-l  { padding-left: 5%; }
+.padded-r  { padding-bottom: 5%; }
+
+.padded-tb  { padding-top: 5%; padding-bottom: 5%; }
+.padded-lr  { padding-left: 5%; padding-right: 5%; }
+
+.padded-t-1 { padding-top: 1rem; }
+.padded-b-1 { padding-bottom: 1rem; }
+.padded-l-1 { padding-left: 1rem; }
+.padded-r-1 { padding-bottom: 1rem; }
+
+.padded-t-2 { padding-top: 2rem; }
+.padded-b-2 { padding-bottom: 2rem; }
+.padded-l-2 { padding-left: 2rem; }
+.padded-r-2 { padding-bottom: 2rem; }
+
+.padded-t-0 { padding-top: 0; }
+.padded-b-0 { padding-bottom: 0; }
+.padded-l-0 { padding-left: 0; }
+.padded-r-0 { padding-bottom: 0; }
+
+/******************** Margin ********************/
+
+.margin-t { margin-top: 5%; }
+.margin-b { margin-bottom: 5%; }
+.margin-l { margin-left: 5%; }
+.margin-r { margin-right: 5%; }
+
+.margin-t-1 { margin-top: 1rem; }
+.margin-b-1 { margin-bottom: 1rem; }
+.margin-l-1 { margin-left: 1rem; }
+.margin-r-1 { margin-right: 1rem; }
+
+.margin-t-2 { margin-top: 2rem; }
+.margin-b-2 { margin-bottom: 2rem; }
+.margin-l-2 { margin-left: 2rem; }
+.margin-r-2 { margin-right: 2rem; }
+
+.margin-t-0 { margin-top: 0; }
+.margin-b-0 { margin-bottom: 0; }
+.margin-l-0 { margin-left: 0; }
+.margin-r-0 { margin-right: 0; }
+
+.margin-t-l { margin-top: 15%; }
+.margin-tb { margin-top: 5%; margin-bottom: 5%; }
+.margin-lr { margin-left: 5%; margin-right: 5%; }
+
+/******************** Typography Style ********************/
+
+.left    { text-align: left; }
+.right   { text-align: right; }
+.center  { text-align: center; }
+
+.height-100 { min-height: 100vh;}
+.height-90  { min-height: 90vh;}
+.height-80  { min-height: 80vh;}
+.height-70  { min-height: 70vh;}
+.height-60  { min-height: 60vh;}
+.height-50  { min-height: 50vh;}
+.height-40  { min-height: 40vh;}
+.height-30  { min-height: 30vh;}
+
+/******************** Links and Buttons ********************/
+
+header {
+    position: absolute;
+    width: 100%;
+    background-color: #00000000;
+}
+header nav a {
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+}
+
+header a { display: inline-block;}
+header a:hover { border-bottom: none;}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s;
+}
+
+.bg-overlay {
+    position: relative;
+}
+
+.bg-overlay::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.3);
+}
+
+.banner {
+    background-image: url("/images/banner.mp4");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.about-image {
+    background-image: url("https://source.unsplash.com/random");
+    background-size: cover;
+    background-position: center;
+    min-height: 30vw;
+    max-width: 25vw;
+}
+
+.services-image {
+    background-image: url("https://source.unsplash.com/random");
+    background-size: cover;
+    background-position: center;
+    min-height: 16vw;
+}
+
+/******************** Contact Section ********************/
+
+form input, form textarea {
+    width: 100%;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: 2px solid #b9b9b9;
+    outline: none;
+    font-family: inherit;
+    font-size: 0.9rem;
+    border-radius: 5px;
+}
+
+form input:focus, form textarea:focus {
+    border-color: #17301C;
+}
+
+textarea {
+    min-height: 5rem;
+    resize: vertical;
+}
+
+form label {
+    margin-top: 1rem;
+    display: block;
+    color: inherit;
+    padding-left: 0.1rem;
+}
+
+form button {
+    background-color: transparent;
+    border: 2px solid #b9b9b9;
+    padding: 0.5rem 2rem;
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    border-radius: 5px;
+    color: inherit;
+    transition: all 0.2s;
+}
+
+form button:hover {
+    border: 2px solid #707070;
+    background-color: #707070;
+    color: #f4f4f4;
+    cursor: pointer;
+}
+
+.copyright {
+    background-color: rgb(80,80,85);
+    color: antiquewhite;
+}
