@@ -2,5 +2,37 @@
 layout: default
 title: Contact
 ---
-<h1>Welcome to your Contact!</h1>
-<p>This is the contect section</p>
+
+{% include banner.html %}
+
+<section class="grid-middle-center padded">
+    <div class="col-8 padded center">
+        <h3> IT'S OK TO SEE A THERAPIST </h3>
+        <p> There is no competition in dialogue. A therapist won't talk about their problems and make those problems, bigger than yours. </p>
+    </div>
+</section>
+
+<section class="grid-middle-center">
+    <div class="col-8 center">
+        <form action="contact.php" method="post" class="contact-form">
+            <h3> Let's get in touch! </h3>
+            <div class="grid-spaceBetween">
+                <input type="text" name="_firstname" id="_firstname" placeholder="First Name" required class="contact-form-box col-5" />
+                <input type="text" name="_lastname" id="_lastname" placeholder="Last Name" required class="contact-form-box col-5" />
+            </div>
+            <input type="email" name="_replyto" id="_replyto" placeholder="Email" required class="contact-form-box" />
+            <input type="tel" name="_phone" id="_phone" placeholder="Phone Number" required class="contact-form-box" />
+            <textarea name="_message" id="_message" placeholder="Message" required class="contact-form-text"></textarea>
+            <button type="submit"> Send </button>
+        </form>
+    </div>
+</section>
+
+<section class="grid-middle padded">
+    <div class="col-12 center padded">
+        <h2 class="padded"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+        <button> Read More </button>
+    </div>
+</section>
+
+{% include footer.html %}

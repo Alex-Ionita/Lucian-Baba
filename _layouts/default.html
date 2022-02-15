@@ -8,6 +8,11 @@
         
         <title>{{page.title}}</title>
 
+        <!-- Fonts: Open Sans (300-800), Spartan (100-900), Bitter (100-900) -->
+        <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+        <link href="https://fonts.googleapis.com/css2?family=Bitter:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.7.1/gridlex.min.css" integrity="sha512-mcltC6QZExHxnvuAZy/ESE5S7OCdAx8lkkBBGjUKDqdtCLraHJqMuTGl11tffoyInmG92Fhn+MJvEKavBVZ6eQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
         <link rel="stylesheet" type="text/css" href="/style.css" />
@@ -36,52 +41,25 @@
 
     <!------------------------- Body ------------------------->
     <body>
+        <section class="background-img bg-overlay">
 
-        {{content}}
+            {{content}}
 
-
-        <!------------------------- Small contact form ------------------------->
-        <section class="grid-middle-center padded">
-            <div class="col-5 padded">
-                <h2> Let's talk! </h2> <br>
-                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, reprehenderit rem? Cum quo porro laudantium! </p> <br>
-                <a href="tel:+40731234567"> +40731 234 567</a> <br>
-                <a href="mailto:lucianbaba@gmail.com"> lucianbaba@gmail.com </a>
-            </div>
-            <div class="col-5 padded">
-                <form action="contact.php" method="post">
-                    <input type="text" name="_name" id="_name" placeholder="Name" required />
-                    <input type="email" name="_replyto" id="_replyto" placeholder="Email" required />
-                    <textarea name="message" id="message" placeholder="Message" required></textarea>
-                    <button type="submit"> Send </button>
-                </form>
-            </div>
         </section>
 
-        <!------------------------- Footer ------------------------->
-        <footer class="grid-middle padded-05 padded-lr">
-            <div class="col-4-middle">
-                <a href="/index.html">
-                    <h1> Lucian Baba </h1>
-                </a>
-            </div>
-            <div class="col-8 right">
-                <nav>
-                    <a href="/index.html"> Home </a>
-                    <a href="/about.html"> About </a>
-                    <a href="/services.html"> Services </a>
-                    <a href="/blog.html"> Blog </a>
-                    <a href="/contact.html"> Contact </a>
-                </nav>
-            </div>
-        </footer>
-        <section class="grid-center padded-05 copyright">
-            <h5 class="col-12 center"> Copyright &#169 2022 | ALLACreativeStudio </h5>
-        </section>
+        <!------------------------- Script tags ------------------------->
 
-        <!------------------------- Script Tags ------------------------->
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.js"
+            integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer">
+        </script>
 
-
+        <script
+            type="text/javascript"
+            src="/script.js">
+        </script>
 
     </body>
 
