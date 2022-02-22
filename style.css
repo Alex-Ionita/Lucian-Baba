@@ -15,6 +15,11 @@ section { position: relative; }
 
 /******************** Utility Classes ********************/
 
+.capped-width-wide      { max-width: 1600px; margin: auto; }
+.capped-width           { max-width: 1200px; margin: auto; }
+.capped-width-narrow    { max-width: 1000px; margin: auto; }
+.capped-width-v-narrow  { max-width: 800px;  margin: auto; }
+
 .height-100 { min-height: 100vh;}
 .height-90  { min-height: 90vh;}
 .height-80  { min-height: 80vh;}
@@ -79,7 +84,6 @@ section { position: relative; }
 .margin-l-0 { margin-left: 0; }
 .margin-r-0 { margin-right: 0; }
 
-.margin-t-l { margin-top: 15%; }
 .margin-tb { margin-top: 5%; margin-bottom: 5%; }
 .margin-lr { margin-left: 5%; margin-right: 5%; }
 
@@ -145,11 +149,18 @@ p:last-child { margin-bottom: 0; }
 
 /******************** Image Style ********************/
 
+.bg-image {
+    background-color: #202a3f;
+    background-image: url('https://source.unsplash.com/8Ogfqvw15Rg/1600x1600');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+}
+
 .background-img {
     background-image: url("/images/background-img.jpg");
     background-size: cover;
-    background-position: 50%;
-    background-color: #03060D;
+    background-color: #202a3f;
     background-attachment: fixed;
 }
 
@@ -157,24 +168,38 @@ p:last-child { margin-bottom: 0; }
     background-image: url("https://source.unsplash.com/random");
     background-size: cover;
     background-position: center;
-    min-height: 30vw;
-    max-width: 25vw;
+    padding-bottom: 125%;
+    background-color: #202a3f;
 }
 
 .services-image {
     background-image: url("https://source.unsplash.com/random");
     background-size: cover;
     background-position: center;
-    min-height: 16vw;
+    padding-bottom: 100%;
+    background-color: #202a3f;
 }
 
 .square-img {
     background-image: url("https://source.unsplash.com/random");
     background-size: cover;
     background-position: center;
-    min-height: 20vw;
+    padding-bottom: 100%;
+    background-color: #202a3f;
 }
 
+a.bg-image { display: block;}
+
+.landscape     { padding-bottom: 66% ; }
+.portrait-tall { padding-bottom: 175%; }
+.portrait      { padding-bottom: 125%; }
+.square        { padding-bottom: 100%; }
+
+/* Background Position */
+.bg-pos-t { background-position: top; }
+.bg-pos-b { background-position: bottom; }
+.bg-pos-l { background-position: left; }
+.bg-pos-r { background-position: right; }
 
 /******************** Links and Buttons ********************/
 
@@ -203,6 +228,34 @@ button:hover {
     background-color: #2869a8;
     color: #c6d1db;
     border: 1.5px solid #2869a8;
+}
+
+.subtle-button { border-bottom: 1px solid; }
+
+/******************** Dropdown Menu ********************/
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -0.4rem;
+    padding:0.5rem;
+    background-color: rgba(0,0,0,0.3);
+    text-align: left;
+    z-index: 2;
+    min-width: 12rem;
+}
+
+.dropdown:hover .dropdown-content { display: block; }
+
+.dropdown-content a {
+    display: block;
+    margin-bottom: 0.5rem;
 }
 
 /******************** Header nav ********************/
@@ -241,6 +294,7 @@ header a { display: inline-block;}
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-color: #202a3f;
 }
 
 video {
@@ -253,6 +307,7 @@ video {
     top: 0;
     bottom: 0;
     z-index: -3;
+    background-color: #202a3f;
 }
 
 /******************** Contact Section ********************/
@@ -329,6 +384,53 @@ form button:hover {
 .contact-form > button {
     margin-top: 2rem;
     border: 1.5px solid #2869a8;
+}
+
+/******************** Blog ********************/
+
+/* Individual Elements */
+.tag {
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 0.5;
+    font-size: 0.8rem;
+    margin-right: 0.4rem;
+}
+
+.post-info { font-size: 0.8rem; }
+
+/* Individual Blog Post Pages  */
+.blog-content h1 {
+    font-family: 'Martel', serif; 
+    font-weight: 200;
+    font-size: 3rem;
+}
+
+.blog-content p {
+    line-height: 1.6;
+}
+
+.blog-content hr {
+    border: none;
+    border: 1px solid var(--medium);
+}
+
+/* Social Share Nav  */
+.social-share a {
+    padding: 0.25rem 0.5rem;
+}
+
+/* Miscelaneous elements  */
+hr.short {
+    border: 1px solid var(--dark-text);
+    width: 2rem;
+    margin: 1rem 0;
+}
+
+hr.short.center {
+    margin:auto;
+    margin: 1rem auto;
 }
 
 .copyright {

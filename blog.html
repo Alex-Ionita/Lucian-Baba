@@ -1,11 +1,52 @@
 ---
 layout: default
-title: Blog
+title: Blog Page 
+seo:
+  title:
+  description:
+  social_image:
+  twitter_card:
+  keywords:
 ---
 
 {% include banner.html %}
 
-<h1>Welcome to your Blog!</h1>
-<p>This is the contect section</p>
+<!------------------------ Split blog loop (part 1) ------------------------>
+<section class="padded">
+    <div class="capped-width grid-center">
+        <div class="col-9 padded-05 center margin-b-1">
+            <h2> Latest Posts </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+        </div>
+            {% for post in site.posts limit:3 %}
+                {% include post-loop-item-square.html %}
+            {% endfor %}
+    </div>
+</section>
+
+<!----------------- CTA ----------------->
+<section class="grid-middle padded">
+    <div class="col-12 center padded">
+        <h2 class="padded"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+        <button> Get in touch </button>
+    </div>
+</section>
+
+<!------------------------ Split blog loop (part 2) ------------------------>
+<section class="padded">
+    <div class="capped-width grid-center">
+        {% for post in site.posts limit:12 offset:3 %}
+                {% include post-loop-item-square.html %}
+        {% endfor %}
+    </div>
+
+    <!-- This checks if there are more than 15 blog posts, and if there are shows a link to the full blog archive -->
+    {% assign post_count = site.posts | size %}
+    {% if post_count > 15 %}
+        <div class="center padded">
+            <a class="button" href="/blog-archive"> See More </a>
+        </div>
+    {% endif %}
+</section>
 
 {% include footer.html %}
