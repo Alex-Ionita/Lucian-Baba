@@ -258,7 +258,7 @@ button:hover {
     margin-bottom: 0.5rem;
 }
 
-/******************** Header nav ********************/
+/******************** Nav ********************/
 
 header {
     position: absolute;
@@ -266,11 +266,7 @@ header {
     background-color: #00000000;
     z-index: 1;
 }
-header nav a {
-    padding-left: 0.3rem;
-    padding-right: 0.3rem;
-}
-
+header nav a { padding: 0 0.3rem; }
 header a { display: inline-block;}
 
 .bg-overlay {
@@ -309,6 +305,9 @@ video {
     z-index: -3;
     background-color: #202a3f;
 }
+
+footer nav a { padding: 0 0.3rem; }
+footer a { display: inline-block;}
 
 /******************** Contact Section ********************/
 
@@ -402,7 +401,7 @@ form button:hover {
 
 /* Individual Blog Post Pages  */
 .blog-content h1 {
-    font-family: 'Martel', serif; 
+    font-family: 'Bitter', serif; 
     font-weight: 200;
     font-size: 3rem;
 }
@@ -413,24 +412,26 @@ form button:hover {
 
 .blog-content hr {
     border: none;
-    border: 1px solid var(--medium);
-}
-
-/* Social Share Nav  */
-.social-share a {
-    padding: 0.25rem 0.5rem;
+    border: 1px solid #c6d1db;
 }
 
 /* Miscelaneous elements  */
 hr.short {
-    border: 1px solid var(--dark-text);
-    width: 2rem;
+    border: 1px solid #c6d1db;
+    width: 4rem;
     margin: 1rem 0;
 }
 
-hr.short.center {
-    margin:auto;
-    margin: 1rem auto;
+hr.short.center { margin: 1rem auto; }
+
+.social-btn {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.social-btn a {
+    display: inline-block;
+    padding: 0 0.3rem;
 }
 
 .copyright {
