@@ -105,7 +105,6 @@ h1 {
     font-family: "Spartan", sans-serif;
     line-height: 1.1;
     font-weight: 100;
-    letter-spacing: -0.1rem;
 }
 
 h2 {
@@ -128,9 +127,8 @@ h3 {font-size: 1.8rem;}
 h4 {font-size: 1.5rem;}
 
 p, li {
-    line-height: 1.4; 
+    line-height: 1.6; 
     margin-bottom: 1.4rem;
-    letter-spacing: -0.02rem;
     font-size: 1.1rem;
 }
 
@@ -147,6 +145,10 @@ p:last-child { margin-bottom: 0; }
     font-size: 1.3rem;
 }
 
+.testimonial {
+    font-size: 3rem;
+}
+
 /******************** Image Style ********************/
 
 .bg-image {
@@ -159,6 +161,7 @@ p:last-child { margin-bottom: 0; }
 
 .background-img {
     background-image: url("/images/background-img.jpg");
+    background-position: top;
     background-size: cover;
     background-color: #202a3f;
     background-attachment: fixed;
@@ -190,6 +193,7 @@ p:last-child { margin-bottom: 0; }
 
 a.bg-image { display: block;}
 
+.wide-landscape { padding-bottom: 30%; }
 .landscape     { padding-bottom: 66% ; }
 .portrait-tall { padding-bottom: 175%; }
 .portrait      { padding-bottom: 125%; }
@@ -215,6 +219,7 @@ a:hover {
 
 button {
     font-family: "Bitter", serif;
+    color: #202a3f;
     font-size: 0.9rem;
     border: 1.5px solid #c6d1db;
     padding: 0.5rem 1.5rem;
@@ -222,6 +227,26 @@ button {
     background-color: #c6d1db;
     cursor: pointer;
     transition: all 0.2s;
+}
+
+.button {
+    display: inline-block;
+    font-family: "Bitter", serif;
+    color: #202a3f;
+    font-size: 0.9rem;
+    font-weight: 400;
+    border: 1.5px solid #c6d1db;
+    padding: 0.5rem 1.5rem;
+    border-radius: 50px;
+    background-color: #c6d1db;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.button:hover {
+    background-color: #2869a8;
+    color: #c6d1db;
+    border: 1.5px solid #2869a8;
 }
 
 button:hover {
@@ -437,4 +462,14 @@ hr.short.center { margin: 1rem auto; }
 .copyright {
     background-color: rgb(80,80,85);
     color: antiquewhite;
+}
+
+.cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    background-color: #202a3f;
+    height: 20vh;
 }
