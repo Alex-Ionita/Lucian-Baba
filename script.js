@@ -15,4 +15,15 @@
         $(el).css("background-position", "50% " + (dy - ot) * parallax + "px");
       });
     });
-  })(jQuery);
+})(jQuery);
+
+$( document ).ready(function() {
+
+  $('.burger').click(function(){
+  $('.mobile-menu').slideToggle(400);
+  $(this).toggleClass('active');
+  });
+
+  AOS.init();
+
+});

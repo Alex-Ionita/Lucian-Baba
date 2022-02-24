@@ -217,18 +217,6 @@ a:hover {
     color: #2869a8;
 }
 
-button {
-    font-family: "Bitter", serif;
-    color: #202a3f;
-    font-size: 0.9rem;
-    border: 1.5px solid #c6d1db;
-    padding: 0.5rem 1.5rem;
-    border-radius: 50px;
-    background-color: #c6d1db;
-    cursor: pointer;
-    transition: all 0.2s;
-}
-
 .button {
     display: inline-block;
     font-family: "Bitter", serif;
@@ -244,12 +232,6 @@ button {
 }
 
 .button:hover {
-    background-color: #2869a8;
-    color: #c6d1db;
-    border: 1.5px solid #2869a8;
-}
-
-button:hover {
     background-color: #2869a8;
     color: #c6d1db;
     border: 1.5px solid #2869a8;
@@ -282,6 +264,49 @@ button:hover {
     display: block;
     margin-bottom: 0.5rem;
 }
+
+/******************** Burger Menu ********************/
+
+.burger {
+    display: none;
+    outline: none;
+    height: 20px;
+    width: 15px;
+    border: 0px;
+    padding: 0px;
+    background: transparent;
+    transition: all 400ms ease-out;
+    cursor: pointer;
+}
+.burger:before, .burger:after {
+    content: '';
+    width: 15px;
+    height: 2px;
+    position: absolute;
+    background: #c6d1db;
+    transition: all 400ms ease-out;
+    will-change: transform;
+}
+.burger:before {
+    transform: translateY(6px);
+}
+.burger:after {
+    transform: translateY(13px);
+}
+.active.burger:before {
+    transform: translateY(10px) rotate(45deg);
+}
+.active.burger:after {
+    transform: translateY(10px) rotate(-45deg);
+}
+.mobile-menu { display: none; }
+.mobile-menu a { margin: 1vh 10%; }
+.mobile-menu hr {
+    margin-left: 10%;
+    color: #8080805c;
+}
+
+.dropdown-content-burger { margin-left: 4vh; }
 
 /******************** Nav ********************/
 
@@ -472,4 +497,75 @@ hr.short.center { margin: 1rem auto; }
     overflow: hidden;
     background-color: #202a3f;
     height: 20vh;
+}
+
+/******************** Responsive Styles ********************/
+
+.show-xs, 
+.show-sm,
+.show-md {
+	display: none;
+}
+
+/* ------- MD Media Query (64em / 1024px) --------------- */
+
+@media (max-width: 64em) {
+
+    .show-md { display: block; }
+    .hide-md { display: none;  }
+
+    html { font-size: 0.9rem; }
+
+}
+
+/* ------- SM Media Query (48em / 768px) --------------- */
+
+@media (max-width: 48em) {
+    .show-sm { display: block; }
+    .hide-sm { display: none;  }
+
+    h2 {font-size: 2.6rem;}
+    h3 {font-size: 1.5rem;}
+    h4 {font-size: 1.3rem;}
+    h5 {font-size: 0.9rem;}
+    p  {font-size: 1rem;  }
+
+    .sm-square { padding-bottom: 100%;}
+	 
+    header {
+        background-color: #202a3f;
+        position: fixed;
+    }
+
+    .sm-padded { padding: 1rem; }
+
+    .mob-hide { display: none;}
+    .mob-show { display: inline-flex;}
+}
+
+/* ------- XS Media Query (36em / 576px) --------------- */
+
+@media (max-width: 36em) {
+    .show-xs { display: block; }
+    .hide-xs { display: none;  }
+
+    html { font-size: 0.8rem; }
+    h1 {font-size: 1.3rem;}
+    h2 {font-size: 1.5rem;}
+    h3 {font-size: 1.2rem;}
+    h4 {font-size: 1.3rem;}
+    h5 {font-size: 0.9rem;}
+    p  {font-size: 1rem;  }
+    .testimonial { font-size: 1.5rem; }
+
+    .xs-landscape { padding-bottom: 50%;}
+    .xs-square { padding-bottom: 100%;}
+
+    .xs-padded { padding: 0; }
+    .xs-padded-t { padding-top: 3rem;}
+    .xs-margin-t { margin-top: 3rem;}
+    .xs-margin-b { margin-bottom: 3rem;}
+
+    .xs-center { text-align: center; }
+
 }

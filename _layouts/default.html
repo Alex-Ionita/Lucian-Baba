@@ -4,7 +4,7 @@
     {% include head.html %}
 
     <!------------------------- Nav bar ------------------------->
-    <header class="grid-middle padded-sm">
+    <header class="grid-middle padded-sm sm-padded">
         <div class="col-5">
             <a href="/index.html">
                 <h1> Lucian Baba </h1>
@@ -13,7 +13,7 @@
         <div class="col-2 center">
             <a href="/ro/index.html"> RO </a> | <a href="/index.html"> EN </a>
         </div>
-        <div class="col-5 right">
+        <div class="col-5 right mob-hide">
             <nav>
                 <a href="/index.html"> Home </a>
                 <a href="/about.html"> About </a>
@@ -30,6 +30,29 @@
                 </div>
                 <a href="/blog.html"> Blog </a>
                 <a href="/contact.html"> Contact </a>
+            </nav>
+        </div>
+
+        <!------------------------- Burger Menu ------------------------->
+
+        <div class="col-5 right">
+            <button class="burger mob-show"></button>
+        </div>
+        <div class="col-12 left mobile-menu padded-tb">
+            <nav>
+                <a href="/index.html"> Home </a> <hr>
+                <a href="/about.html"> About </a> <hr>
+                <a href="/services.html"> Services </a> <hr>
+                <div class="dropdown-content-burger">
+                    <a href="/services/individual-therapy.html"> Individual Therapy </a> <hr>
+                    <a href="/services/pshilosophical-advisor.html"> Pshilosophical Advisor </a> <hr>
+                    <a href="/services/psyco-oncology.html"> Psycho-Oncology </a> <hr>
+                    <a href="/services/personal-development.html"> Personal Development </a> <hr>
+                    <a href="/services/art-therapy.html"> Art Therapy </a> <br> <hr>
+                    <a href="/services/text-therapy.html"> Therapy Through Text </a> <hr>
+                </div>
+                <a href="/blog.html"> Blog </a> <hr>
+                <a href="/contact.html"> Contact </a> <hr>
             </nav>
         </div>
     </header>
