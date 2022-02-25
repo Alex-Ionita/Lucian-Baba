@@ -426,7 +426,7 @@ form button:hover {
     border-bottom: 1px solid #b9b9b9;
     resize: vertical;
     min-height: 2rem;
-    height: 100px;
+    height: 7rem;
     margin: 1rem 0;
 }
 
@@ -529,6 +529,7 @@ hr.short.center { margin: 1rem auto; }
     h4 {font-size: 1.3rem;}
     h5 {font-size: 0.9rem;}
     p  {font-size: 1rem;  }
+    .emphasize { font-size: 1.1rem; }
 
     .sm-square { padding-bottom: 100%;}
 	 
@@ -538,6 +539,9 @@ hr.short.center { margin: 1rem auto; }
     }
 
     .sm-padded { padding: 1rem; }
+    .sm-padded-tb { padding: 5% 0; }
+    .contact-form-box { padding: 0.5rem; }
+    .contact-form-text { height: 4rem; }
 
     .mob-hide { display: none;}
     .mob-show { display: inline-flex;}
@@ -565,7 +569,10 @@ hr.short.center { margin: 1rem auto; }
     .xs-padded-t { padding-top: 3rem;}
     .xs-margin-t { margin-top: 3rem;}
     .xs-margin-b { margin-bottom: 3rem;}
+    .contact-form { padding: 5% 7%;}
 
     .xs-center { text-align: center; }
+
+    .swap { order: 2;}
 
 }
