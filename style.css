@@ -571,6 +571,8 @@ hr.short.center { margin: 1rem auto; }
     .xs-margin-b { margin-bottom: 3rem;}
     .contact-form { padding: 5% 7%;}
 
+    .banner { background-attachment: scroll;}
+
     .xs-center { text-align: center; }
 
     .swap { order: 2;}
