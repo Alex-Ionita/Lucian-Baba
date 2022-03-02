@@ -572,6 +572,10 @@ hr.short.center { margin: 1rem auto; }
     .contact-form { padding: 5% 7%;}
 
     .banner { background-attachment: scroll;}
+    .background-img {
+        background-attachment: scroll;
+        background-size: contain;
+    }
 
     .xs-center { text-align: center; }
 
