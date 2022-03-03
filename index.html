@@ -7,6 +7,25 @@ seo:
   social_image:
   twitter_card:
   keywords:
+services:
+ - servtitle: Individual Therapy
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/individual-therapy.html
+ - servtitle: Philosophical Advisor
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/philosophical-advisor.html
+ - servtitle: Psycho-Oncology
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/psycho-oncology.html
+ - servtitle: Personal Development
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/personal-development.html
+ - servtitle: Art Therapy
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/art-therapy.html
+ - servtitle: Therapy through text
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   servurl: /services/text-therapy.html
 ---
 
 <!----------------- Video banner ----------------->
@@ -45,85 +64,21 @@ seo:
         <section class="capped-width grid">
             <h2 class="col-12 center"> Services </h2>
 
-            <!-- {% for item in page.services %} -->
+            {% for item in page.services %}
 
             <div class="col-4_sm-6_xs-12-middle center padded">
-                <div class="services-image xs-landscape padded-1"></div>
+                <div class="padded-1">
+                    <div class="services-image xs-landscape"></div>
+                </div>
                 <div>
-                    <h4 class="padded-t-2 margin-b-2"> individual Therapy </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt. </p>
-                    <a href="/services/individual-therapy.html" class="subtle-button"> Read More </a>
+                    <h4 class="padded-t-2 margin-b-2"> {{item.servtitle}} </h4>
+                    <p> {{item.description}} </p>
+                    <a href="{{item.servurl}}" class="subtle-button"> Read More </a>
                 </div>
             </div>
 
-            <!-- {% endfor %} -->
+            {% endfor %}
 
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Individual Therapy </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Philosophical Advisor </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Psycho-Oncology </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Personal Development </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Art Therapy </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
-            <div class="col-4_sm-6_xs-12-middle center padded">
-                <a href="#" class="grid">
-                    <div class="col-12 padded-1">
-                        <div class="services-image xs-landscape"></div>
-                    </div>
-                    <div class="col-12">
-                        <h4 class="padded-t-2 margin-b-2"> Therapy through text </h4>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                    </div>
-                </a>
-            </div>
         </section>
     </section>
 
