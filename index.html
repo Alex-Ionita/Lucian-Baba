@@ -8,23 +8,29 @@ seo:
   twitter_card:
   keywords:
 services:
- - servtitle: Individual Therapy
+ - heading: Individual Therapy
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/individual-therapy.html
- - servtitle: Philosophical Advisor
+ - heading: Philosophical Advisor
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/philosophical-advisor.html
- - servtitle: Psycho-Oncology
+ - heading: Psycho-Oncology
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/psycho-oncology.html
- - servtitle: Personal Development
+ - heading: Personal Development
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/personal-development.html
- - servtitle: Art Therapy
+ - heading: Art Therapy
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/art-therapy.html
- - servtitle: Therapy through text
+ - heading: Therapy through text
    description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
    servurl: /services/text-therapy.html
 ---
 
@@ -61,14 +67,14 @@ services:
     <!----------------- Services section ----------------->
 
     <section class="padded xs-padded xs-padded-t">
-        <section class="capped-width grid">
+        <section class="capped-width grid-center">
             <h2 class="col-12 center"> Services </h2>
 
             {% for item in page.services %}
 
             <div class="col-4_sm-6_xs-12-middle center padded">
                 <div class="padded-1">
-                    <div class="services-image xs-landscape"></div>
+                    <div class="services-image xs-landscape" style="background-image:url('{{item.service_image}}')"></div>
                 </div>
                 <div>
                     <h4 class="padded-t-2 margin-b-2"> {{item.servtitle}} </h4>
