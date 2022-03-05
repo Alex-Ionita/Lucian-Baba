@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Services
+service_image: /images/placeholder-img.jpg
 ---
 
 {% include banner.html %}
@@ -30,7 +31,7 @@ title: Services
         <a href="/services/individual-therapy.html" class="subtle-button"> Read More </a>
     </div>
     <div class="col-4_md-5_xs-12 padded">
-        <div class="square-img xs-landscape _image"></div>
+        <div class="square-img xs-landscape" style="background-image:url('{{item.service_image}}')"></div>
     </div>
 </section>
 
