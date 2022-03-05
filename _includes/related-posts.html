@@ -11,9 +11,6 @@
           <div class="col-4_sm-8_xs-12 padded">
               <div class="bg-image portrait sm-square" style="background-image:url( '{{ post.featured_image }}' );"></div>
               <div class="padded-t-1">
-                  {% for item in post.categories %}
-                  <span class="tag"> {{item}} </span>
-                  {% endfor %}
                   <h3 class="margin-t-1 margin-b-1"> {{ post.title }} </h3>
                   <p> {{ post.description }} </p>
                   <a href="{{ post.url }}" class="subtle-button"> Read More </a>
