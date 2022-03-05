@@ -6,20 +6,13 @@ description: >-
   ab, eum dolore perspiciatis tenetur alias aspernatur
 author: Lucian Baba
 featured: true
-categories:
-  - travel
-  - life
 featured_image: https://source.unsplash.com/random
 seo:
   title:
   description:
-  social_image:
-  twitter_card:
   keywords:
-_comments:
-  title: Max 70 characters
-  social_image: landscape 1200 x 600px
 ---
+
 ## Adventures in Bali
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error sunt earum, ab, eum dolore perspiciatis tenetur alias aspernatur impedit fugiat quos esse accusamus nesciunt accusantium labore provident hic ex est?

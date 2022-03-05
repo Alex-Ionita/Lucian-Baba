@@ -14,4 +14,31 @@
           </a>
         {% endfor %}
     </div>
+
+    <!------------------------ Featured blog loop ------------------------>
+    <section class="padded xs-padded xs-margin-t">
+      <div class="capped-width grid-center">
+          <h4 class="col-12 padded center"> Related Posts </h4>
+
+          {% assign featured_posts = site.posts | where_exp:"post","post.url != page.url and 'featured', true" %}
+
+          <!-- {% assign featured_posts = site.posts | where: 'featured', true and where_exp:"post","post.url != page.url and post.hidden != true" %} -->
+
+          {% for post in featured_posts limit:3 %}
+
+          <div class="col-4_sm-8_xs-12 padded">
+              <div class="bg-image portrait sm-square" style="background-image:url( '{{ post.featured_image }}' );"></div>
+              <div class="padded-t-1">
+                  {% for item in post.categories %}
+                  <span class="tag"> {{item}} </span>
+                  {% endfor %}
+                  <h3 class="margin-t-1 margin-b-1"> {{ post.title }} </h3>
+                  <p> {{ post.description }} </p>
+                  <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+              </div>
+          </div>
+
+          {% endfor %}
+      </div>
+    </section>
 </section>

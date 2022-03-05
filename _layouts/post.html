@@ -1,27 +1,19 @@
 ---
 layout: default
-banner_image: /images/placeholder-img.jpg
 ---
 
 <!------------------ Banner ------------------>
-<section class="grid-middle-center center banner height-70 bg-overlay" style="background-image:url('{{page.banner_image}}')">
-    <div class="col-10">
-        <h2 class="editable"> COUNSELING | THERAPY <br> PERSONAL DEVELOPMENT </h2>
-        <h3 class="editable"> There is no greater agony than bearing an untold story inside you. </h3>
-        <a href="/Services" class="button"> More </a>
+<section class="grid-middle-center center banner height-70 bg-overlay" style="background-image:url('{{page.featured_image}}')">
+    <div class="col-10 blog-content">
+        <h1> {{ page.title }} </h1>
+        <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
+        <a href="/Blog" class="button"> More </a>
     </div>
 </section>
 
 <!------------------ Content ------------------>
 
 <section class="padded capped-width-narrow blog-content">
-    <div class="intro padded-1 center margin-b-2">
-        {% for item in page.categories %}
-            <span class="tag"> {{ item }}</span>
-        {% endfor %}
-        <h1> {{ page.title }} </h1>
-        <p class="post-info"> by {{ page.author }} | {{ page.date | date_to_string }} </p>
-    </div>
     <div class="padded-1">
         {{content}}
     </div>

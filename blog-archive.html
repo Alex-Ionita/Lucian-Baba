@@ -2,6 +2,10 @@
 layout: default
 title: Blog Archive
 banner_image: /images/placeholder-img.jpg
+seo:
+  title:
+  description:
+  keywords:
 ---
 
 <!------------------ Banner ------------------>
@@ -15,7 +19,7 @@ banner_image: /images/placeholder-img.jpg
 
 <!------------------ Content ------------------>
 
-<!------------------------ Split blog loop (part 1) ------------------------>
+<!------------------------ Blog loop ------------------------>
 <section class="padded archive">
     <div class="capped-width-narrow padded-05 center margin-b-1">
         <h2 class="editable"> Blog Archive </h2>
@@ -30,9 +34,6 @@ banner_image: /images/placeholder-img.jpg
                         <div class="bg-image square" style="background-image:url( '{{ post.featured_image }}' );"></div>
                     </div>
                     <div class="col-9-middle padded-1">
-                        {% for item in post.categories %}
-                            <span class="tag"> {{item}} </span>
-                        {% endfor %}
                         <h4 class="margin-t-1 margin-b-1 subtle-heading-xs"> {{ post.title }} </h4>
                         <p class="subtitle hide-xs"> {{ post.description }} </p>
                     </div>

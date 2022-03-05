@@ -438,14 +438,6 @@ form button:hover {
 /******************** Blog ********************/
 
 /* Individual Elements */
-.tag {
-    display: inline-block;
-    font-weight: bold;
-    text-transform: uppercase;
-    opacity: 0.5;
-    font-size: 0.8rem;
-    margin-right: 0.4rem;
-}
 
 .post-info { font-size: 0.8rem; }
 
