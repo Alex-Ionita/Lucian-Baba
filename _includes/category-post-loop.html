@@ -4,7 +4,7 @@
             <h3> {{ page.title }}</h3>
             {{ page.description_html }}
         </div>
-            {% for post in site.categories[page.category] limit:12 %}
+            {% for post in site.categories limit:12 %}
                 {% include post-loop-item-square.html %}
             {% endfor %}
     </div>
