@@ -15,8 +15,8 @@ seo:
 <section class="padded">
     <div class="capped-width grid-center">
         <div class="col-10_sm-12 padded center margin-b-1">
-            <h2> Latest Posts </h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+            <h2 class="editable"> Latest Posts </h2>
+            <p class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
         </div>
             {% for post in site.posts limit:3 %}
                 {% include post-loop-item-square.html %}
@@ -27,7 +27,7 @@ seo:
 <!----------------- CTA ----------------->
 <section class="capped-width grid-middle xs-padded">
     <div class="col-12 center padded xs-padded">
-        <h2 class="padded xs-margin-t"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+        <h2 class="padded xs-margin-t editable"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
         <a href="/contact.html" class="button"> Get in touch </a>
     </div>
 </section>
