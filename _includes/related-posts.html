@@ -20,7 +20,7 @@
       <div class="capped-width grid-center">
           <h4 class="col-12 padded center"> Related Posts </h4>
 
-          {% assign featured_posts = site.posts | where_exp:"post","post.url != page.url and 'featured' = true" %}
+          {% assign featured_posts = site.posts | where_exp:"post.url != page.url and 'featured', true" %}
 
           <!-- {% assign featured_posts = site.posts | where: 'featured', true and where_exp:"post","post.url != page.url and post.hidden != true" %} -->
 
