@@ -3,6 +3,18 @@ title: Food Archive
 layout: default
 description_html: 
 category: food
+banner_image: /images/placeholder-img.jpg
 ---
+
+<!------------------ Banner ------------------>
+<section class="grid-middle-center center banner height-70 bg-overlay" style="background-image:url('{{page.banner_image}}')">
+    <div class="col-10">
+        <h2 class="editable"> COUNSELING | THERAPY <br> PERSONAL DEVELOPMENT </h2>
+        <h3 class="editable"> There is no greater agony than bearing an untold story inside you. </h3>
+        <a href="/Services" class="button"> More </a>
+    </div>
+</section>
+
+<!------------------ Content ------------------>
 
 {% include category-post-loop.html %}
