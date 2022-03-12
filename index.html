@@ -40,12 +40,16 @@ services:
 <section class="grid-middle-center center height-100 bg-overlay xs-height-70">
     <div>
         <video autoplay muted loop playsinline>
-            <source src="{{page.banner_image}}" type="video/mp4">
+            <source src="{{page.banner_image}}" type="video/mp4" />
         </video>
     </div>
     <div class="col-10">
-        <h2 class="editable"> COUNSELING | PSYCHOTHERAPY <br> PERSONAL DEVELOPMENT </h2>
-        <h3 class="editable"> There is no greater agony than bearing an untold story inside you. </h3>
+        <h2 class="editable">
+            COUNSELING | PSYCHOTHERAPY<br />PERSONAL DEVELOPMENT
+        </h2>
+        <h3 class="editable">
+            There is no greater agony than bearing an untold story inside you.
+        </h3>
         <a href="/Services" class="button"> More </a>
     </div>
 </section>
@@ -59,8 +63,12 @@ services:
             <div class="about-image portrait xs-square" style="background-image:url('{{page.about_image}}')"></div>
         </div>
         <div class="col-7_xs-12 padded">
-            <h3 class="editable"> Lorem Ipsum </h3>
-            <p class="editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit earum deleniti explicabo architecto, fugit iste cumque dolorum harum aspernatur? Eos quasi ullam tempore quo dolores, voluptatem ex quas omnis neque? </p>
+            <h3 class="editable">
+                Lorem Ipsum
+            </h3>
+            <p class="editable">
+                <br />When life is hard, we need to change. When we suffer we need to transform. Suffering never left us as it found us. Its effect on man is either to fragment or to transform him, but it never leaves us the same as it found us.<br /><br />Exactly in this moment of transition, psychotherapy and counseling offer their unique value, accompanying man among the highest and lowest moments of his existence, giving him an opportunity for reflection, deepening the way he understands his life, changing himself, and his environment, and transforming himself.<br /><br />Hi! I am Lucian and I am an integrative psychotherapist, a philosophical counselor passionate about accompanying people in this process. My expertise is focused on the processes of change and transformation of people, and my professional efforts are dedicated to healing human suffering and creating together a new way of being in which authenticity, receptivity, and vulnerability are not impediments, but resources in the service of humanizing yourself and the life you will live.
+            </p>
             <a href="/About" class="button"> Read More </a>
         </div>
     </section>
@@ -69,7 +77,9 @@ services:
 
     <section class="padded xs-padded xs-padded-t">
         <section class="capped-width grid-center">
-            <h2 class="col-12 center editable"> Services </h2>
+            <h2 class="col-12 center editable">
+                Services
+            </h2>
 
             {% for item in page.services %}
 
@@ -92,7 +102,9 @@ services:
     <!----------------- CTA ----------------->
     <section class="capped-width-wide grid-middle padded xs-padded">
         <div class="col-12 center padded xs-padded">
-            <h2 class="padded xs-margin-t editable"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+            <h2 class="padded xs-margin-t editable">
+                Difficult roads lead to beautiful destinations,<br />so let's walk together!
+            </h2>
             <a href="/Contact" class="button"> Get in touch </a>
         </div>
     </section>
@@ -101,8 +113,12 @@ services:
     <section class="padded xs-padded xs-margin-t">
         <div class="capped-width grid-center">
             <div class="col-12 padded center">
-                <h2  class="editable"> Featured Posts </h2>
-                <p  class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+                <h2 class="editable">
+                    Featured Posts
+                </h2>
+                <p class="editable">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.
+                </p>
             </div>
             {% assign featured_posts = site.posts | where: 'featured', true %}
             {% for post in featured_posts limit:3 %}
@@ -123,7 +139,9 @@ services:
         <div class="col-12 center padded xs-padded">
             <div class="grid-middle">
                 <span class="col-1 testimonial"> <i class="fa-solid fa-quote-left"></i> </span>
-                <h3 class="col-10 margin-b-0 editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga</h3>
+                <h3 class="col-10 margin-b-0 editable">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga
+                </h3>
                 <span class="col-1 testimonial"> <i class="fa-solid fa-quote-right"></i> </span>
             </div>
         </div>
