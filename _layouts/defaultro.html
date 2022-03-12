@@ -4,32 +4,55 @@
     {% include head.html %}
 
     <!------------------------- Nav bar ------------------------->
-    <header class="grid-middle padded-sm">
+    <header class="grid-middle padded-sm sm-padded">
         <div class="col-5">
-            <a href="/index.html">
+            <a href="/">
                 <h1> Lucian Baba </h1>
             </a>
         </div>
         <div class="col-2 center">
-            <a href="/ro/index.html"> RO </a> | <a href="/index.html"> EN </a>
+            <a href="/RO"> RO </a> | <a href="/"> EN </a>
         </div>
-        <div class="col-5 right">
+        <div class="col-5 right mob-hide">
             <nav>
-                <a href="/ro/index.html"> Acasa </a>
-                <a href="/ro/about.html"> Despre </a>
+                <a href="/RO"> Acasa </a>
+                <a href="/Despre"> Despre </a>
                 <div class="dropdown">
-                    <a href="/services.html"> Servicii </a>
+                    <a href="/Servicii"> Servicii </a>
                     <div class="dropdown-content">
-                        <a href="/individual-therapy"> Individual Therapy </a>
-                        <a href="/pshilosophical-advisor"> Pshilosophical Advisor </a>
-                        <a href="/psyco-oncology"> Psycho-Oncology </a>
-                        <a href="/personal-development"> Personal Development </a>
-                        <a href="/art-therapy"> Art Therapy </a>
-                        <a href="/text-therapy"> Therapy Through Text </a>
+                        <a href="/Terapie-Individuala"> Terapie Individuala </a>
+                        <a href="/Consiliere-Filozofica"> Consiliere Filozofica </a>
+                        <a href="/Psiho-Ocologie"> Psiho-Ocologie </a>
+                        <a href="/Dezvoltare-Personala"> Dezvoltare Personala </a>
+                        <a href="/Terapie-prin-Arta"> Terapie prin Arta </a>
+                        <a href="/Terapie-prin-scris"> Terapie prin scris </a>
                     </div>
                 </div>
-                <a href="/blog.html"> Blog </a>
-                <a href="/contact.html"> Contact </a>
+                <a href="/Blog/RO"> Blog </a>
+                <a href="/Contact/RO"> Contact </a>
+            </nav>
+        </div>
+
+        <!------------------------- Burger Menu ------------------------->
+
+        <div class="col-5 right">
+            <button class="burger mob-show"></button>
+        </div>
+        <div class="col-12 left mobile-menu padded-tb">
+            <nav>
+                <a href="/RO"> Acasa </a> <hr>
+                <a href="/Despre"> Despre </a> <hr>
+                <a href="/Servicii"> Servicii </a> <hr>
+                <div class="dropdown-content-burger">
+                    <a href="/Terapie-Individuala"> Terapie Individuala </a> <hr>
+                    <a href="/Consiliere-Filozofica"> Consiliere Filozofica </a> <hr>
+                    <a href="/Psiho-Ocologie"> Psiho-Ocologie </a> <hr>
+                    <a href="/Dezvoltare-Personala"> Dezvoltare Personala </a> <hr>
+                    <a href="/Terapie-prin-Arta"> Terapie prin Arta </a> <hr>
+                    <a href="/Terapie-prin-scris"> Terapie prin scris </a> <hr>
+                </div>
+                <a href="/Blog/RO"> Blog </a> <hr>
+                <a href="/Contact/RO"> Contact </a> <hr>
             </nav>
         </div>
     </header>
@@ -49,6 +72,14 @@
             integrity="sha512-n/4gHW3atM3QqRcbCn6ewmpxcLAHGaDjpEBu4xZd47N0W2oQ+6q7oc3PXstrJYXcbNU1OHdQ1T7pAP+gi5Yu8g=="
             crossorigin="anonymous"
             referrerpolicy="no-referrer">
+        </script>
+
+        <script type="text/javascript" id="cookiebanner"
+            src="https://cdnjs.cloudflare.com/ajax/libs/cookie-banner/1.2.2/cookiebanner.min.js"
+            data-moreinfo="/Cookie-GDPR/RO"
+            data-bg="rgba(0, 0, 0, 0.8)"
+            data-message="Folosim cookie-uri pentru a vă îmbunătăți experiența. Continuând să vizitați acest site sunteți de acord cu utilizarea cookie-urilor."
+            data-linkmsg="Afla mai mult">
         </script>
 
         <script

@@ -1,139 +1,117 @@
 ---
 layout: defaultro
 title: Homepage
+permalink: /RO
 seo:
-  title:
+  title: Acasa
   description:
-  social_image:
-  twitter_card:
   keywords:
+about_image: /images/placeholder-img.jpg
+banner_image: /images/banner.mp4
+services:
+ - heading: Terapie Individuala
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Terapie-Individuala
+ - heading: Consiliere Filozofica
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Consiliere-Filozofica
+ - heading: Psiho-Ocologie
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Psiho-Ocologie
+ - heading: Dezvoltare Personala
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Dezvoltare-Personala
+ - heading: Terapie prin Arta
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Terapie-prin-Arta
+ - heading: Terapie prin scris
+   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
+   service_image: /images/placeholder-img.jpg
+   servurl: /Terapie-prin-scris
 ---
 
 <!----------------- Video banner ----------------->
 
-<section class="grid-middle center height-100 bg-overlay">
+<section class="grid-middle-center center height-100 bg-overlay xs-height-70">
     <div>
         <video autoplay muted loop playsinline>
-            <source src="/images/banner.mp4" type="video/mp4">
+            <source src="{{page.banner_image}}" type="video/mp4">
         </video>
     </div>
-    <div class="col-12">
-        <h2> CONSILIERE | TERAPIE <br> DEZVOLTARE PERSONALA </h2>
-        <h3> Versiunea in Romana </h3>
-        <button href="#"> Afla mai mult </button>
+    <div class="col-10">
+        <h2 class="editable"> CONSILIERE | PSIHOTERAPIE <br> DEZVOLTARE PERSONALA </h2>
+        <h3 class="editable"> There is no greater agony than bearing an untold story inside you. </h3>
+        <a href="/Servicii" class="button"> Mai mult... </a>
     </div>
 </section>
 
 <section class="background-img bg-overlay">
 
 <!----------------- About section ----------------->
-    <section class="capped-width-wide grid-middle padded">
-        <div class="col-1"></div>
-        <div class="col-4 padded"> 
-            <div class="about-image portrait"></div>
+    <section class="capped-width-wide grid-middle padded xs-padded">
+        <div class="col-1 hide-sm"></div>
+        <div class="col-4_sm-5_xs-12 padded"> 
+            <div class="about-image portrait xs-square" style="background-image:url('{{page.about_image}}')"></div>
         </div>
-        <div class="col-7 padded">
-            <h3> Lorem Ipsum </h3>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit earum deleniti explicabo architecto, fugit iste cumque dolorum harum aspernatur? Eos quasi ullam tempore quo dolores, voluptatem ex quas omnis neque? </p>
-            <button> Read More </button>
+        <div class="col-7_xs-12 padded">
+            <h3 class="editable"> Lorem Ipsum </h3>
+            <p class="editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit earum deleniti explicabo architecto, fugit iste cumque dolorum harum aspernatur? Eos quasi ullam tempore quo dolores, voluptatem ex quas omnis neque? </p>
+            <a href="/Despre" class="button"> Mai mult... </a>
         </div>
     </section>
 
     <!----------------- Services section ----------------->
 
-    <section class="capped-width-wide grid padded">
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Individual Therapy </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Philosophical Advisor </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Psycho-Oncology </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Personal Development </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Art Therapy </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
-        <div class="col-4-middle center padded">
-            <a href="#">
-                <div class="padded">
-                    <div class="padded-2">
-                        <div class="services-image"></div>
-                    </div>
-                    <h4> Therapy through text </h4>
-                    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora ipsum consequuntur iure, reiciendis similique cupiditate. Dolorem ratione vel amet molestias, veniam tempora, voluptatem facilis, deleniti veritatis expedita saepe? Adipisci, quod?</p>
-                </div>
-            </a>
-        </div>
+    <section class="padded xs-padded xs-padded-t">
+        <section class="capped-width grid-center">
+            <h2 class="col-12 center editable"> Servicii </h2>
 
+            {% for item in page.services %}
+
+            <div class="col-4_sm-6_xs-12-middle center padded">
+                <div class="padded-1">
+                    <div class="services-image xs-landscape" style="background-image:url('{{item.service_image}}')"></div>
+                </div>
+                <div>
+                    <h4 class="padded-t-2 margin-b-2"> {{item.heading}} </h4>
+                    <p> {{item.description}} </p>
+                    <a href="{{item.servurl}}" class="subtle-button"> Mai mult... </a>
+                </div>
+            </div>
+
+            {% endfor %}
+
+        </section>
     </section>
 
     <!----------------- CTA ----------------->
-    <section class="capped-width-wide grid-middle padded">
-        <div class="col-12 center padded">
-            <h2 class="padded"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
-            <button> Get in touch </button>
+    <section class="capped-width-wide grid-middle padded xs-padded">
+        <div class="col-12 center padded xs-padded">
+            <h2 class="padded xs-margin-t editable"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+            <a href="/Contact" class="button"> Contact </a>
         </div>
     </section>
 
     <!------------------------ Featured blog loop ------------------------>
-    <section class="padded">
+    <section class="padded xs-padded xs-margin-t">
         <div class="capped-width grid-center">
             <div class="col-12 padded center">
-                <h2> Featured Posts </h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+                <h2  class="editable"> Posturi Recomandate </h2>
+                <p  class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
             </div>
             {% assign featured_posts = site.posts | where: 'featured', true %}
             {% for post in featured_posts limit:3 %}
-            <div class="col-4 padded">
-                <div class="bg-image portrait" style="background-image:url( '{{ post.featured_image }}' );"></div>
+            <div class="col-4_sm-8_xs-12 padded">
+                <div class="bg-image portrait sm-square" style="background-image:url( '{{ post.featured_image }}' );"></div>
                 <div class="padded-t-1">
                     <h3 class="margin-t-1 margin-b-1"> {{ post.title }} </h3>
                     <p> {{ post.description }} </p>
-                    <a href="{{ post.url }}" class="subtle-button"> Read More </a>
+                    <a href="{{ post.url }}" class="subtle-button"> Mai mult... </a>
                 </div>
             </div>
             {% endfor %}
@@ -141,16 +119,16 @@ seo:
     </section>
 
     <!----------------- Testimonials/Quotes ----------------->
-    <section class="capped-width-wide grid-middle padded">
-        <div class="col-12 center padded">
-            <div class="grid">
-                <span class="col-1"> " </span>
-                <h3 class="col-10"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga</h3>
-                <span class="col-1"> " </span>
+    <section class="capped-width-wide grid-middle padded xs-padded xs-margin-t xs-margin-b">
+        <div class="col-12 center padded xs-padded">
+            <div class="grid-middle">
+                <span class="col-1 testimonial"> <i class="fa-solid fa-quote-left"></i> </span>
+                <h3 class="col-10 margin-b-0 editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga</h3>
+                <span class="col-1 testimonial"> <i class="fa-solid fa-quote-right"></i> </span>
             </div>
         </div>
     </section>
 
-    {% include footer.html %}
+    {% include footerro.html %}
 
 </section>
