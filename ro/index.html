@@ -40,12 +40,16 @@ services:
 <section class="grid-middle-center center height-100 bg-overlay xs-height-70">
     <div>
         <video autoplay muted loop playsinline>
-            <source src="{{page.banner_image}}" type="video/mp4">
+            <source src="{{page.banner_image}}" type="video/mp4" />
         </video>
     </div>
     <div class="col-10">
-        <h2 class="editable"> CONSILIERE | PSIHOTERAPIE <br> DEZVOLTARE PERSONALA </h2>
-        <h3 class="editable"> There is no greater agony than bearing an untold story inside you. </h3>
+        <h2 class="editable">
+            CONSILIERE | PSIHOTERAPIE<br />DEZVOLTARE PERSONALA
+        </h2>
+        <h3 class="editable">
+            <br />Ce nu te omoară te face să ai nevoie de psihoterapie.&nbsp;<br />Un prieten de-al lui Nietzsche, circa 2012
+        </h3>
         <a href="/Servicii" class="button"> Mai mult... </a>
     </div>
 </section>
@@ -59,8 +63,12 @@ services:
             <div class="about-image portrait xs-square" style="background-image:url('{{page.about_image}}')"></div>
         </div>
         <div class="col-7_xs-12 padded">
-            <h3 class="editable"> Lorem Ipsum </h3>
-            <p class="editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit earum deleniti explicabo architecto, fugit iste cumque dolorum harum aspernatur? Eos quasi ullam tempore quo dolores, voluptatem ex quas omnis neque? </p>
+            <h3 class="editable">
+                Despre mine
+            </h3>
+            <p class="editable">
+                C&acirc;nd viața e grea, avem nevoie să ne schimbăm. C&acirc;nd suferim avem nevoie să ne transformăm. Suferința niciodată nu ne lăsa la fel cum ne-a găsit. Efectul ei asupra omului este: ori &icirc;l fragmentează, ori &icirc;l transformă, dar niciodată nu-l lasă la fel.&nbsp;<br /><br />Exact &icirc;n acest moment de tranziție, psihoterapia și consilierea &icirc;și oferă valoarea unică, acompaniind omul printre cele mai &icirc;nalte și joase momente ale existenței sale, oferindu-i un prilej de reflecție, aprofund&acirc;ndu-i modul &icirc;n care-și &icirc;nțelege viața, schimb&acirc;ndu-și mediul și transform&acirc;ndu-se pe sine.&nbsp;<br /><br />Bună! Sunt Lucian și sunt psihoterapeut integrativ, consilier filosofic pasionat să &icirc;nsoțesc oamenii &icirc;n acest proces. Expertiza mea este axată pe procesele de schimbare și transformare ale oamenilor, iar eforturile mele profesionale sunt dedicate vindecării&nbsp; suferinței umane și de a crea &icirc;mpreună, o nouă cale de a fi &icirc;n care autenticitatea, receptivitatea și vulnerabilitatea nu sunt impedimente, ci resurse &icirc;n slujba umanizării tale și a vieții pe care o vei trăi.
+            </p>
             <a href="/Despre" class="button"> Mai mult... </a>
         </div>
     </section>
@@ -69,7 +77,9 @@ services:
 
     <section class="padded xs-padded xs-padded-t">
         <section class="capped-width grid-center">
-            <h2 class="col-12 center editable"> Servicii </h2>
+            <h2 class="col-12 center editable">
+                Servicii
+            </h2>
 
             {% for item in page.services %}
 
@@ -92,7 +102,9 @@ services:
     <!----------------- CTA ----------------->
     <section class="capped-width-wide grid-middle padded xs-padded">
         <div class="col-12 center padded xs-padded">
-            <h2 class="padded xs-margin-t editable"> Difficult roads lead to beautiful destinations,<br>so let's walk together! </h2>
+            <h2 class="padded xs-margin-t editable">
+                Difficult roads lead to beautiful destinations,<br />so let's walk together!
+            </h2>
             <a href="/Contact" class="button"> Contact </a>
         </div>
     </section>
@@ -101,8 +113,12 @@ services:
     <section class="padded xs-padded xs-margin-t">
         <div class="capped-width grid-center">
             <div class="col-12 padded center">
-                <h2  class="editable"> Posturi Recomandate </h2>
-                <p  class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
+                <h2 class="editable">
+                    Posturi Recomandate
+                </h2>
+                <p class="editable">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.
+                </p>
             </div>
             {% assign featured_posts = site.posts | where: 'featured', true %}
             {% for post in featured_posts limit:3 %}
@@ -123,7 +139,9 @@ services:
         <div class="col-12 center padded xs-padded">
             <div class="grid-middle">
                 <span class="col-1 testimonial"> <i class="fa-solid fa-quote-left"></i> </span>
-                <h3 class="col-10 margin-b-0 editable"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga</h3>
+                <h3 class="col-10 margin-b-0 editable">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iste accusantium cum nobis, ad distinctio nostrum fuga
+                </h3>
                 <span class="col-1 testimonial"> <i class="fa-solid fa-quote-right"></i> </span>
             </div>
         </div>
