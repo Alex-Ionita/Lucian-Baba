@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: defaultro
 title: Blog Page
-permalink: /Blog
+permalink: /Blog/RO
 seo:
   title:
   description:
@@ -13,13 +13,13 @@ banner_image: /images/placeholder-img.jpg
 <section class="grid-middle-center center banner height-70 bg-overlay" style="background-image:url('{{page.banner_image}}')">
     <div class="col-10">
         <h2 class="editable">
-            COUNSELING | THERAPY<br />PERSONAL DEVELOPMENT
+            CONSILIERE | PSIHOTERAPIE<br />DEZVOLTARE PERSONALA
         </h2>
         <h3 class="editable">
-            What doesn&rsquo;t kill you makes you need psychotherapy.
-            <p class="editable signature">A friend of Nietzsche, circa 2012</p>
+            Ce nu te omoară te face să ai nevoie de psihoterapie.
+            <p class="editable signature">Un prieten de-al lui Nietzsche, circa 2012</p>
         </h3>
-        <a href="/Services" class="button"> More </a>
+        <a href="/Servicii" class="button"> Mai mult... </a>
     </div>
 </section>
 
@@ -29,7 +29,7 @@ banner_image: /images/placeholder-img.jpg
 <section class="padded">
     <div class="capped-width grid-center">
         <div class="col-10_sm-12 padded center margin-b-1">
-            <h2 class="editable"> Latest Posts </h2>
+            <h2 class="editable"> Ultimele postari </h2>
             <p class="editable">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, quaerat necessitatibus? Praesentium fugit ex neque magni, possimus, iste itaque voluptatem id doloremque voluptas consequatur dolor cumque! Dolores possimus laboriosam adipisci.</p>
         </div>
             {% for post in site.posts limit:3 %}
@@ -41,8 +41,8 @@ banner_image: /images/placeholder-img.jpg
 <!----------------- CTA ----------------->
 <section class="capped-width grid-middle xs-padded">
     <div class="col-12 center padded xs-padded">
-        <h2 class="padded xs-margin-t editable"> Difficult dialogues lead to beautiful conclusions,<br />so let's talk! </h2>
-        <a href="/Contact" class="button"> Get in touch </a>
+        <h2 class="padded xs-margin-t editable"> Dialogurile dificile conduc la concluzii frumoase,asa ca hai sa<br />vorbim! </h2>
+        <a href="/Contact" class="button"> Contact </a>
     </div>
 </section>
 
@@ -58,9 +58,9 @@ banner_image: /images/placeholder-img.jpg
     {% assign post_count = site.posts | size %}
     {% if post_count > 15 %}
         <div class="center padded">
-            <a class="button" href="/blog-archive"> See More </a>
+            <a class="button" href="/blog-archive"> Mai mult... </a>
         </div>
     {% endif %}
 </section>
 
-{% include footer.html %}
+{% include footerro.html %}
