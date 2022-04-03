@@ -178,7 +178,8 @@ p:last-child { margin-bottom: 0; }
     background-size: cover;
     background-position: center;
     padding-bottom: 125%;
-    background-color: #202a3f;
+    background-color: #EFE6E1;
+    background-repeat: no-repeat;
 }
 
 .services-image {
@@ -338,7 +339,7 @@ header a { display: inline-block;}
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.5);
     z-index: -2;
 }
 
@@ -520,6 +521,8 @@ hr.short.center { margin: 1rem auto; }
 
     .show-md { display: block; }
     .hide-md { display: none;  }
+
+    .md-padded { padding: 0;}
 
     html { font-size: 0.9rem; }
 

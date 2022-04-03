@@ -6,32 +6,32 @@ seo:
   title: Homepage
   description:
   keywords:
-about_image: /images/placeholder-img.jpg
+about_image: /images/about-img.jpg
 banner_image: /images/banner.mp4
 services:
- - heading: Individual Therapy
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Individual Therapy and Group Therapy
+   description: A psychological, authentic and profound encounter with another human being can change our lives and transform the world within us. It can inspire and calm us to accept ourselves as we are now and to walk authentically toward what we can become.
+   service_image: /images/services-img/img-1.jpg
    servurl: /Individual-Therapy
- - heading: Philosophical Advisor
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Philosophical Counseling
+   description: Philosophical counseling is aimed at people who want to deepen their way of being (in the words of the rapper Mos Def) through which they feel strong, not aggressive, free not only licensed, full of compassion not only polite, good not only well mannered.
+   service_image: /images/services-img/img-2.jpg
    servurl: /Philosophical-Advisor
  - heading: Psycho-Oncology
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+   description: Psycho-oncology is intended for people suffering from an oncological condition and aims to offer supportive counseling and / or counseling of family members to maximize the quality of life and psychological state of the person during treatment.
+   service_image: /images/services-img/img-3.jpg
    servurl: /Psycho-Oncology
- - heading: Personal Development
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Psychological counseling & individual and group personal development
+   description: After almost 150 years of psychotherapy, we are full of recipes on how to be productive, efficient, happy, fulfilled, but the necessary ingredients have remained the same -  the nature of man and the human condition reflected in his particularity.
+   service_image: /images/services-img/img-4.jpg
    servurl: /Personal-Development
- - heading: Art Therapy
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Art-Therapy
+   description: Art gives us the chance to remember past moments, to hope for the best, to be resilient with suffering, to rebalance, to understand ourselves, to grow, but especially to appreciate the beauty of life and to be comforted from the painful chaos in it.&nbsp;
+   service_image: /images/services-img/img-5.jpg
    servurl: /Art-Therapy
- - heading: Therapy through text
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Psychotherapy through writing
+   description: Written psychotherapy is a relatively old form of therapy (poets and writers) but new in the set of psychotherapeutic practices.
+   service_image: /images/services-img/img-6.jpg
    servurl: /Therapy-Through-Text
 ---
 
@@ -58,12 +58,11 @@ services:
 <section class="background-img bg-overlay">
 
 <!----------------- About section ----------------->
-    <section class="capped-width-wide grid-middle padded xs-padded">
-        <div class="col-1 hide-sm"></div>
+    <section class="capped-width-wide grid-middle padded md-padded">
         <div class="col-4_sm-5_xs-12 padded"> 
             <div class="about-image portrait xs-square" style="background-image:url('{{page.about_image}}')"></div>
         </div>
-        <div class="col-7_xs-12 padded">
+        <div class="col-8_sm-7_xs-12 padded">
             <h3 class="editable">
                 About me
             </h3>
@@ -84,7 +83,7 @@ services:
 
             {% for item in page.services %}
 
-            <div class="col-4_sm-6_xs-12-middle center padded">
+            <div class="col-4_sm-6_xs-12 center padded">
                 <div class="padded-1">
                     <div class="services-image xs-landscape" style="background-image:url('{{item.service_image}}')"></div>
                 </div>

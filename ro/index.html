@@ -6,32 +6,32 @@ seo:
   title: Acasa
   description:
   keywords:
-about_image: /images/placeholder-img.jpg
+about_image: /images/about-img.jpg
 banner_image: /images/banner.mp4
 services:
- - heading: Terapie Individuala
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Psihoterapie integrativ individuală sau de grup
+   description: O întâlnire psihologică, autentică și profundă cu altă ființă umană ne poate schimba viața și ne poate transforma lumea dinlăuntrul nostru. Ne poate inspira și ne poate calma să ne acceptam pe noi înșine așa cum suntem acum și să mergem cu autenticitate spre ce putem devenii.
+   service_image: /images/services-img/img-1.jpg
    servurl: /Terapie-Individuala
- - heading: Consiliere Filozofica
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Consiliere filosofică
+   description: Consilierea filosofică se adresează oamenilor care vor să aprofundeze o cale de a fi (în cuvintele rapper-ului Mos Def) prin care se simt puternici, nu agresivi, liberi nu doar autorizați, plini de compasiune nu doar politicoși, buni nu doar manierați.
+   service_image: /images/services-img/img-2.jpg
    servurl: /Consiliere-Filozofica
- - heading: Psiho-Ocologie
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Psiho-oncologie
+   description: Psiho-oncologia este destinată persoanelor suferinde de o afecțiune oncologică și urmărește consilierea suportivă a acestora și/sau consilierea membrilor familiei pentru a maximiza calitatea vieții și starea psihologică a persoanei pe durata tratamentului.
+   service_image: /images/services-img/img-3.jpg
    servurl: /Psiho-Ocologie
- - heading: Dezvoltare Personala
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Consiliere psihologică și dezvoltare personală individuală și de grup
+   description: După aproape 150 de ani de psihoterapie suntem plini de rețete despre cum să fim productivi, eficienți, fericiți, împliniți, dar ingredientele necesare au rămas la fel - natura și condiția umană reflectate în om. 
+   service_image: /images/services-img/img-4.jpg
    servurl: /Dezvoltare-Personala
- - heading: Terapie prin Arta
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Art-terapie
+   description: Arta ne oferă șansa să ne reamintim momentele trecute, să sperăm la mai bine, să fim rezilienți cu suferința, să ne rechilibrăm, să ne înțelegem pe noi înșine, să creștem, dar mai ales să apreciem frumusețea vieții și să fim consolați de haosul dureros din ea.
+   service_image: /images/services-img/img-5.jpg
    servurl: /Terapie-prin-Arta
- - heading: Terapie prin scris
-   description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quas consequuntur autem odit. Commodi sunt nulla quia adipisci? Vel, voluptatibus? Id laborum omnis suscipit. Nemo ad fugiat hic adipisci sunt.
-   service_image: /images/placeholder-img.jpg
+ - heading: Psihoterapie prin scris
+   description: Psihoterapia prin scris este o formă relativ veche de terapie (poeții și scriitori), dar nouă în setul de practici psihoterapeutice.
+   service_image: /images/services-img/img-6.jpg
    servurl: /Terapie-prin-scris
 ---
 
@@ -58,12 +58,11 @@ services:
 <section class="background-img bg-overlay">
 
 <!----------------- About section ----------------->
-    <section class="capped-width-wide grid-middle padded xs-padded">
-        <div class="col-1 hide-sm"></div>
+    <section class="capped-width-wide grid-middle padded md-padded">
         <div class="col-4_sm-5_xs-12 padded"> 
             <div class="about-image portrait xs-square" style="background-image:url('{{page.about_image}}')"></div>
         </div>
-        <div class="col-7_xs-12 padded">
+        <div class="col-8_sm-7_xs-12 padded">
             <h3 class="editable">
                 Despre mine
             </h3>
@@ -84,7 +83,7 @@ services:
 
             {% for item in page.services %}
 
-            <div class="col-4_sm-6_xs-12-middle center padded">
+            <div class="col-4_sm-6_xs-12 center padded">
                 <div class="padded-1">
                     <div class="services-image xs-landscape" style="background-image:url('{{item.service_image}}')"></div>
                 </div>
