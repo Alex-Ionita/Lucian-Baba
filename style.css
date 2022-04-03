@@ -280,6 +280,7 @@ a:hover {
     width: 15px;
     border: 0px;
     padding: 0px;
+    padding-top: 2px;
     background: transparent;
     transition: all 400ms ease-out;
     cursor: pointer;
@@ -339,6 +340,11 @@ header a { display: inline-block;}
     right: 0;
     background-color: rgba(0,0,0,0.3);
     z-index: -2;
+}
+
+.logo {
+    max-width: 190px;
+    padding-top: 7.5px;
 }
 
 .banner {
@@ -536,7 +542,7 @@ hr.short.center { margin: 1rem auto; }
         position: fixed;
     }
 
-    .sm-padded { padding: 1rem; }
+    .sm-padded { padding: 0 1rem; }
     .sm-padded-tb { padding: 5% 0; }
     .contact-form-box { padding: 0.5rem; }
     .contact-form-text { height: 4rem; }
@@ -568,6 +574,7 @@ hr.short.center { margin: 1rem auto; }
     .xs-margin-t { margin-top: 3rem;}
     .xs-margin-b { margin-bottom: 3rem;}
     .contact-form { padding: 5% 7%;}
+    .logo { max-width: 31vw; }
 
     .banner { background-attachment: scroll;}
     .background-img {
