@@ -366,6 +366,7 @@ video {
     bottom: 0;
     z-index: -3;
     background-color: #202a3f;
+    background-image: url("/images/video-banner-background.png")
 }
 
 footer nav a { padding: 0 0.3rem; }
