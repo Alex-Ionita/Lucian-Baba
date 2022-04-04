@@ -24,9 +24,11 @@ seo:
 ---
 > EN
 
-&nbsp;
+---
 
 ## The Statues of Buddha from Bamiyan and Autocrats
+
+---
 
 Columns of dust aroused high, eclipsing the horizon as whirlpools of winds danced at the edges of this great conquering army. Waves of marching troops drummed with shields, and leather sandals hitting the ground rhythmically. They have traveled far, farther than they thought they ever will, and still farther than their imagination will they march, beyond their maps, beyond the edges of their known world.
 
@@ -102,11 +104,15 @@ The present devours the significance of the past, while the future will learn fr
 
 Also remember the peacemakers, and admire them at least half as the warlords of every century that captivate our attention and fascination so much. Although the Buddha statues in Bamiyan were destroyed and subjected to change, time was much more generous with them than with the autocrats and their wars. Peace and calm always persist more than war and hostility.
 
+​​
+
 > RO
 
-&nbsp;
+---
 
 ## Statuile lui Buddha din Bamiyan și Autocrații
+
+---
 
 Coloane de praf s-au ridicat &icirc;n urma lor eclips&acirc;nd orizontul, &icirc;n timp ce v&acirc;rtejuri de v&acirc;nt dansau la marginile acestei mari armate cuceritoare. Valuri de trupe mărșăluiau băt&acirc;nd scuturile ca niște tobe, &icirc;n timp ce sandalele lor de piele loveau ritmic păm&acirc;ntul. Au călătorit mult, mult mai departe dec&acirc;t au crezut că o vor face vreodată și &icirc;ncă și mai departe dec&acirc;t imaginația lor vor merge, dincolo de hărțile lor, dincolo de marginile lumii lor cunoscute.
 
