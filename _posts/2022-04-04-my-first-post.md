@@ -24,6 +24,8 @@ seo:
 ---
 > EN
 
+&nbsp;
+
 ## The Statues of Buddha from Bamiyan and Autocrats
 
 Columns of dust aroused high, eclipsing the horizon as whirlpools of winds danced at the edges of this great conquering army. Waves of marching troops drummed with shields, and leather sandals hitting the ground rhythmically. They have traveled far, farther than they thought they ever will, and still farther than their imagination will they march, beyond their maps, beyond the edges of their known world.
@@ -104,80 +106,80 @@ Also remember the peacemakers, and admire them at least half as the warlords of 
 
 ## Statuile lui Buddha din Bamiyan și Autocrații
 
-Coloane de praf s-au ridicat în urma lor eclipsând orizontul, în timp ce vârtejuri de vânt dansau la marginile acestei mari armate cuceritoare. Valuri de trupe mărșăluiau bătând scuturile ca niște tobe, în timp ce sandalele lor de piele loveau ritmic pământul. Au călătorit mult, mult mai departe decât au crezut că o vor face vreodată și încă și mai departe decât imaginația lor vor merge, dincolo de hărțile lor, dincolo de marginile lumii lor cunoscute.
+Coloane de praf s-au ridicat &icirc;n urma lor eclips&acirc;nd orizontul, &icirc;n timp ce v&acirc;rtejuri de v&acirc;nt dansau la marginile acestei mari armate cuceritoare. Valuri de trupe mărșăluiau băt&acirc;nd scuturile ca niște tobe, &icirc;n timp ce sandalele lor de piele loveau ritmic păm&acirc;ntul. Au călătorit mult, mult mai departe dec&acirc;t au crezut că o vor face vreodată și &icirc;ncă și mai departe dec&acirc;t imaginația lor vor merge, dincolo de hărțile lor, dincolo de marginile lumii lor cunoscute.
 
-Dar de ce să mărșăluiești ani și ani atât de departe de casă și de cunoscut? Pentru vise de pradă și jaf, aur și argint, sclavi și orașe năruite în cenuşă arsă? Inimile războinicilor beți și colerici tânjesc după aceste jucării decorative și lamentațiile cu care acestea vin însoțite. Nu, aceștia nu erau războinici ai dorințelor banale de război și distrugere. Aceștia erau soldați, luptând cu tactici și strategii pe mulți ani. Aceștia erau soldații lui Alexandros al treilea din Makedon, basileus (rege) al Makedonului din vechea linie de sânge a casei nobiliare Argead, care mai târziu va fi cunoscut lumii ca Alexandru cel Mare.
+Dar de ce să mărșăluiești ani și ani at&acirc;t de departe de casă și de cunoscut? Pentru vise de pradă și jaf, aur și argint, sclavi și orașe năruite &icirc;n cenuşă arsă? Inimile războinicilor beți și colerici t&acirc;njesc după aceste jucării decorative și lamentațiile cu care acestea vin &icirc;nsoțite. Nu, aceștia nu erau războinici ai dorințelor banale de război și distrugere. Aceștia erau soldați, lupt&acirc;nd cu tactici și strategii pe mulți ani. Aceștia erau soldații lui Alexandros al treilea din Makedon, basileus (rege) al Makedonului din vechea linie de s&acirc;nge a casei nobiliare Argead, care mai t&acirc;rziu va fi cunoscut lumii ca Alexandru cel Mare.
 
-Au călătorit departe, departe de casa lor, departe de regatul Macedoniei. Ei au călătorit prin Asia Mică, prin tot Orientul Mijlociu, până în Egipt și s-au întors prin Mesopotamia, din ce în ce mai adânc în Imperiul Perșilor. Pe măsură ce puternicul lor imperiu a primit lovitură după lovitură de la Alexandru, în cele din urmă imperiali persani a îngenuncheat în fața sulițelor stăpâniilor munților, cei care țineau acum în lesă pe înverșunata și înflăcărata Sparta, precum și Imperiul Persan, liga orașelor grecești, regatul milenar al Egiptului și ținuturile vaste ale lorzilor cailor din Scitia și Bactria.
+Au călătorit departe, departe de casa lor, departe de regatul Macedoniei. Ei au călătorit prin Asia Mică, prin tot Orientul Mijlociu, p&acirc;nă &icirc;n Egipt și s-au &icirc;ntors prin Mesopotamia, din ce &icirc;n ce mai ad&acirc;nc &icirc;n Imperiul Perșilor. Pe măsură ce puternicul lor imperiu a primit lovitură după lovitură de la Alexandru, &icirc;n cele din urmă imperiali persani a &icirc;ngenuncheat &icirc;n fața sulițelor stăp&acirc;niilor munților, cei care țineau acum &icirc;n lesă pe &icirc;nverșunata și &icirc;nflăcărata Sparta, precum și Imperiul Persan, liga orașelor grecești, regatul milenar al Egiptului și ținuturile vaste ale lorzilor cailor din Scitia și Bactria.
 
-Dar liderul lor, generalul și eroul lumii grecești Alexandru cel Mare și-a dorit mai mult, pentru că și el visa la ceea ce șahii perșilor au visat în tinerețea lor, la un Imperiu care unea toate civilizațiile cunoscute sub un singur sceptru, un singur tron, un singur stindard, o singură legea a pământului. Așa că a mărșăluit din ce în ce mai departe de casă, în timp ce trupele sale, mereu loiale, mărșăluiau după el până la marginile lumii cunoscute.
+Dar liderul lor, generalul și eroul lumii grecești Alexandru cel Mare și-a dorit mai mult, pentru că și el visa la ceea ce șahii perșilor au visat &icirc;n tinerețea lor, la un Imperiu care unea toate civilizațiile cunoscute sub un singur sceptru, un singur tron, un singur stindard, o singură legea a păm&acirc;ntului. Așa că a mărșăluit din ce &icirc;n ce mai departe de casă, &icirc;n timp ce trupele sale, mereu loiale, mărșăluiau după el p&acirc;nă la marginile lumii cunoscute.
 
-Se spune că atunci când a ajuns în India, lângă trecerea unui râu, un gimnosofist s-a așezat în meditație pe o stâncă. Gimnosofiștii erau echivalentul grecesc al yoghinilor.
+Se spune că atunci c&acirc;nd a ajuns &icirc;n India, l&acirc;ngă trecerea unui r&acirc;u, un gimnosofist s-a așezat &icirc;n meditație pe o st&acirc;ncă. Gimnosofiștii erau echivalentul grecesc al yoghinilor.
 
-Curios cum era Alexandru cel Mare, având un mare interes pentru filosofi, spunând chiar odată că dacă nu s-ar fi născut Alexandru cel Mare, ar fi ales să fie Diogene din Sinope, și-a descălecat armăsarul negru Bucephalus lângă gimnosofist și a intrat într-o conversație cu acest straniu bărbat slab cu barbă lungă, care era neimpresionat în timp ce istoria mărșăluia chiar de-a lungul stâncii sale nesemnificative.
+Curios cum era Alexandru cel Mare, av&acirc;nd un mare interes pentru filosofi, spun&acirc;nd chiar odată că dacă nu s-ar fi născut Alexandru cel Mare, ar fi ales să fie Diogene din Sinope, și-a descălecat armăsarul negru Bucephalus l&acirc;ngă gimnosofist și a intrat &icirc;ntr-o conversație cu acest straniu bărbat slab cu barbă lungă, care era neimpresionat &icirc;n timp ce istoria mărșăluia chiar de-a lungul st&acirc;ncii sale nesemnificative.
 
-Alexandru cel Mare l-a întrebat ce face stând inactiv pe o stâncă lângă trecerea unui râu. Yoghinul a răspuns: „Mă cuceresc. Tu?” imediat neimpresionat, Alexandru a răspuns: „Cuceresc lumea\!”. Amândoi au început să râdă unul de efortul celuilalt, pentru că efortul celuilalt părea zadarnic și inutil. Unul stând inutil pe o stâncă oarecare lângă un râu oarecare cucerindu-se pe sine, celălalt arzând și ucigând pe alți oameni pentru glorie și putere, visând să cuprindă toate cele 4 zări sub o singură voință cucerind lumea.
+Alexandru cel Mare l-a &icirc;ntrebat ce face st&acirc;nd inactiv pe o st&acirc;ncă l&acirc;ngă trecerea unui r&acirc;u. Yoghinul a răspuns: „Mă cuceresc. Tu?” imediat neimpresionat, Alexandru a răspuns: „Cuceresc lumea\!”. Am&acirc;ndoi au &icirc;nceput să r&acirc;dă unul de efortul celuilalt, pentru că efortul celuilalt părea zadarnic și inutil. Unul st&acirc;nd inutil pe o st&acirc;ncă oarecare l&acirc;ngă un r&acirc;u oarecare cucerindu-se pe sine, celălalt arz&acirc;nd și ucig&acirc;nd pe alți oameni pentru glorie și putere, vis&acirc;nd să cuprindă toate cele 4 zări sub o singură voință cucerind lumea.
 
-O întreprindere pe care fiecare a considerat-o nebunie în comparație cu rațiunea celuilalt.
+O &icirc;ntreprindere pe care fiecare a considerat-o nebunie &icirc;n comparație cu rațiunea celuilalt.
 
-Nu este puțin lucru din partea noastră, ca specie, că numele acestui yoghin nu este cunoscut, căci cât de puțini îi admiră și emulează pe cei care încearcă să se cucerească pe ei înșiși, dorințele și ambițiile, nevoile și plăcerile, durerile și fricile lor, pe când ceilalți care doresc să cucerească lumea, să o prindă-n strânsoarea lor de fier, pentru a îndoi și a supune alte ființe voinței lor, sunt faimoși și primesc statui și ovații.
+Nu este puțin lucru din partea noastră, ca specie, că numele acestui yoghin nu este cunoscut, căci c&acirc;t de puțini &icirc;i admiră și emulează pe cei care &icirc;ncearcă să se cucerească pe ei &icirc;nșiși, dorințele și ambițiile, nevoile și plăcerile, durerile și fricile lor, pe c&acirc;nd ceilalți care doresc să cucerească lumea, să o prindă-n str&acirc;nsoarea lor de fier, pentru a &icirc;ndoi și a supune alte ființe voinței lor, sunt faimoși și primesc statui și ovații.
 
-Forța este o modalitate mult mai fermecătoare în a ademenii și instiga oamenii în a căuta ceea ce se află în afara lor.
+Forța este o modalitate mult mai fermecătoare &icirc;n a ademenii și instiga oamenii &icirc;n a căuta ceea ce se află &icirc;n afara lor.
 
-Ceea ce se află în afara omului poate fi cucerit prin forță, dar ceea ce se află înăuntrul omului are nevoie de liniște și tăcere, doar pentru a apărea de sub voalul inconștienței.
+Ceea ce se află &icirc;n afara omului poate fi cucerit prin forță, dar ceea ce se află &icirc;năuntrul omului are nevoie de liniște și tăcere, doar pentru a apărea de sub voalul inconștienței.
 
-Ce aventură poate fi și ce fiori se pot afla în viața unui om care caută în sine și nu în lume ca acel gimnosofist? Poate acea seninătate de a calma animalul interior, de a sta centrat în sine privind în întunericul cosmic care se află între stelele strălucitoare, inspirând adânc și expirând lung și a accepta viața, fără luptă adversială, fără teamă, fără speranță, fără dorință sau semn de permanență.
+Ce aventură poate fi și ce fiori se pot afla &icirc;n viața unui om care caută &icirc;n sine și nu &icirc;n lume ca acel gimnosofist? Poate acea seninătate de a calma animalul interior, de a sta centrat &icirc;n sine privind &icirc;n &icirc;ntunericul cosmic care se află &icirc;ntre stelele strălucitoare, inspir&acirc;nd ad&acirc;nc și expir&acirc;nd lung și a accepta viața, fără luptă adversială, fără teamă, fără speranță, fără dorință sau semn de permanență.
 
-Ca specie ce a luptat să avanseze în lanțul trofic, puțin din viziunea noastră are de a face cu această aventură interioară. Ființele umane sunt mai degrabă captivate de aventură externă a vieții.
+Ca specie ce a luptat să avanseze &icirc;n lanțul trofic, puțin din viziunea noastră are de a face cu această aventură interioară. Ființele umane sunt mai degrabă captivate de aventură externă a vieții.
 
-Oamenii mai degrabă sunt pragmatici, se adaptează, sunt preocupați de ceea ce pot obține, de propria lor supraviețuire și de succesul mai presus de ceilalți pe o ramură superioară a Copacului Vieții. Luptă, copleșește, domină, subjugă, abuzează de umanitatea din tine și de ceilalți, arde lumea pentru a face una nouă conform viziunii tale, iar noi oamenii îți vom păstra numele nemuritor. Zeii spaimei și ai venerației stau mereu unul lângă celălalt.
+Oamenii mai degrabă sunt pragmatici, se adaptează, sunt preocupați de ceea ce pot obține, de propria lor supraviețuire și de succesul mai presus de ceilalți pe o ramură superioară a Copacului Vieții. Luptă, copleșește, domină, subjugă, abuzează de umanitatea din tine și de ceilalți, arde lumea pentru a face una nouă conform viziunii tale, iar noi oamenii &icirc;ți vom păstra numele nemuritor. Zeii spaimei și ai venerației stau mereu unul l&acirc;ngă celălalt.
 
 Așa cum Ahile l-a inspirat pe Alexandru cel Mare, Alexandru cel Mare pe Cezar, Cezar pe Napoleon, Napoleon pe Hitler și pe Stalin și derivatele lor umane de astăzi.
 
-Omenirea este îndrăgostită de instinctul său agresiv și de fructele sale de control, putere și ambiție asupra celorlalți și asupra existenței, împotriva existenței. Oamenii agresivi, dar organizați în eforturile lor, nu impulsivi și haotici, tind să iasă din grupuri ca lideri care fascinează și insuflă frică și autoritate.
+Omenirea este &icirc;ndrăgostită de instinctul său agresiv și de fructele sale de control, putere și ambiție asupra celorlalți și asupra existenței, &icirc;mpotriva existenței. Oamenii agresivi, dar organizați &icirc;n eforturile lor, nu impulsivi și haotici, tind să iasă din grupuri ca lideri care fascinează și insuflă frică și autoritate.
 
-Barbarii îmbrăcați în haine sofisticate, indiferent de secol, bântuiți și vrăjiți de apetitul lor nestins de control, tind să fie ambițioși și diligenți cu dorințele lor arzătoare. Dorințe arzătoare care vor consuma lumea prima oară, iar abia pe urmă dorințele își vor consuma creatorii.
+Barbarii &icirc;mbrăcați &icirc;n haine sofisticate, indiferent de secol, b&acirc;ntuiți și vrăjiți de apetitul lor nestins de control, tind să fie ambițioși și diligenți cu dorințele lor arzătoare. Dorințe arzătoare care vor consuma lumea prima oară, iar abia pe urmă dorințele &icirc;și vor consuma creatorii.
 
-Agresivitatea sănătoasă defensivă, în slujba autoconservării, se află pe o linie foarte subțire cu agresivitatea ostilă care aduce cruzime, suferință și distrugere. Și suntem îndrăgostiți ca specie, de rezultatele agresivității voinței noastre asupra lumii.
+Agresivitatea sănătoasă defensivă, &icirc;n slujba autoconservării, se află pe o linie foarte subțire cu agresivitatea ostilă care aduce cruzime, suferință și distrugere. Și suntem &icirc;ndrăgostiți ca specie, de rezultatele agresivității voinței noastre asupra lumii.
 
-Ne vrăjește pentru că oferă, la suprafață, o cale mai clară, mai simplă și mai rapidă de a ne extrage și a ne satisface dorințele din iritanta lumea care ne frustrează. Mai ales când avem de a face cu propria umanitate sau umanitatea celorlalți care au propriile agende și modalități de a fi și a face lucrurile.
+Ne vrăjește pentru că oferă, la suprafață, o cale mai clară, mai simplă și mai rapidă de a ne extrage și a ne satisface dorințele din iritanta lumea care ne frustrează. Mai ales c&acirc;nd avem de a face cu propria umanitate sau umanitatea celorlalți care au propriile agende și modalități de a fi și a face lucrurile.
 
 Imperiul Persan, la vremea lui, a fost echivalentul relativ (un mare relativ) al Uniunii Europene cu o armată federală (o UE cu un alt autocrat cu apetit de expansiune), dar avea sub umbrela sa culturi, civilizații și crezuri și mai diverse ca UE.
 
-A fost o poveste de succes sute de ani, scăzând numărul de războaie în Orientul Mijlociu, folosind monede standardizate, legi, limbi, tratate, comerț, educație, toleranță între credințe și crezuri, dar când e pace între lupi, înseamnă că leul domnește deasupra gâtului lor.
+A fost o poveste de succes sute de ani, scăz&acirc;nd numărul de războaie &icirc;n Orientul Mijlociu, folosind monede standardizate, legi, limbi, tratate, comerț, educație, toleranță &icirc;ntre credințe și crezuri, dar c&acirc;nd e pace &icirc;ntre lupi, &icirc;nseamnă că leul domnește deasupra g&acirc;tului lor.
 
-Cu toate acestea, lumea îl adoră pe cel care a adus sfârșitul acestui imperiu prin sabie și foc. Se spune că totuși Alexandru cel Mare a protejat Vestul și valorile sale, dar a distrus ceva care a funcționat bine în Est. A proteja dar a și distrus. A distrus dar a și protejat.
+Cu toate acestea, lumea &icirc;l adoră pe cel care a adus sf&acirc;rșitul acestui imperiu prin sabie și foc. Se spune că totuși Alexandru cel Mare a protejat Vestul și valorile sale, dar a distrus ceva care a funcționat bine &icirc;n Est. A proteja dar a și distrus. A distrus dar a și protejat.
 
 Invazia sa din India a fost o afacere costisitoare, de departe cea mai costisitoare invazie pentru armata lui Alexandru, pentru că regatele Indiei aveau nenumărate armate cu elefanți de luptă.
 
-Iar trupele lui începeau să-și poarte ceva mai subțire loialitatea față de viziunea lui Alexandru sau dorința lui de a cuceri mereu mai mult. Majoritatea trupelor au vrut înapoi acasă, dar unii au rămas în această zonă chiar și după moartea lui Alexandru cel Mare în expediția lui eșuată în Arabia și dizolvarea imperiului său în regate separate conduse de generalii săi.
+Iar trupele lui &icirc;ncepeau să-și poarte ceva mai subțire loialitatea față de viziunea lui Alexandru sau dorința lui de a cuceri mereu mai mult. Majoritatea trupelor au vrut &icirc;napoi acasă, dar unii au rămas &icirc;n această zonă chiar și după moartea lui Alexandru cel Mare &icirc;n expediția lui eșuată &icirc;n Arabia și dizolvarea imperiului său &icirc;n regate separate conduse de generalii săi.
 
-Unii soldați greci au rămas în pământurile cucerite ca domni și regi, nobili și conducători în acele părți timp de secole, infuzând cultura greacă cu cea indiană, credințele grecești cu credințele budiste, arta greacă cu arta indiană, dezvoltând regate unice și originale în care Vestul s-a amestecat cu Estul. Respectând una dintre ultimele dorințe ale lui Alexandru cel Mare, ca Vestul să fie contopit cu Estul prin societate, artă și legături de familie.
+Unii soldați greci au rămas &icirc;n păm&acirc;nturile cucerite ca domni și regi, nobili și conducători &icirc;n acele părți timp de secole, infuz&acirc;nd cultura greacă cu cea indiană, credințele grecești cu credințele budiste, arta greacă cu arta indiană, dezvolt&acirc;nd regate unice și originale &icirc;n care Vestul s-a amestecat cu Estul. Respect&acirc;nd una dintre ultimele dorințe ale lui Alexandru cel Mare, ca Vestul să fie contopit cu Estul prin societate, artă și legături de familie.
 
 Pe măsură ce secolele au trecut, acestă cultură elenistică cu o religiei budistă și-a dezvoltat propria artă, din care făcea parte și Buddha din Bamiyan. Bamiyan este un oraș din Afganistan care se află pe Drumul Mătăsii.
 
-În jurul acestui oraș, în valea Bamiyan, câteva mănăstiri budiste au fost construite de călugări și asceți, ca centre de artă, filosofie, religie și cultură. Câțiva dintre ei au devenit pustnici și au trăit în peșteri săpate pe marginile munților.
+&Icirc;n jurul acestui oraș, &icirc;n valea Bamiyan, c&acirc;teva mănăstiri budiste au fost construite de călugări și asceți, ca centre de artă, filosofie, religie și cultură. C&acirc;țiva dintre ei au devenit pustnici și au trăit &icirc;n peșteri săpate pe marginile munților.
 
-Imensele statui ale lui Buddha au fost numite: „Buddha de Est”, acesta avea 38 m și a fost construit în anul 570 d.Hr. Cea de-a doua a fost numită „Buddha de Vest” și avea 55 m și a fost construit în anul 618 d.Hr.
+Imensele statui ale lui Buddha au fost numite: „Buddha de Est”, acesta avea 38 m și a fost construit &icirc;n anul 570 d.Hr. Cea de-a doua a fost numită „Buddha de Vest” și avea 55 m și a fost construit &icirc;n anul 618 d.Hr.
 
-Statuile au fost rezultatul dezvoltări ulterioare ale artei Gandhara. Au fost pictate pentru a le spori expresia, prima fiind pictată cu mai multe culori, iar a doua cu roșu carmin. Statuile au fost însoțite de numeroase peșteri și suprafețe decorate cu picturi murale colorate.
+Statuile au fost rezultatul dezvoltări ulterioare ale artei Gandhara. Au fost pictate pentru a le spori expresia, prima fiind pictată cu mai multe culori, iar a doua cu roșu carmin. Statuile au fost &icirc;nsoțite de numeroase peșteri și suprafețe decorate cu picturi murale colorate.
 
-Frumusețea lor a fost menită să inspire stări superioare de conștiință care să prețuiască și să orienteze în viață, păstrând în perspectivă și atitudine, lucrurile mai importante din viață.
+Frumusețea lor a fost menită să inspire stări superioare de conștiință care să prețuiască și să orienteze &icirc;n viață, păstr&acirc;nd &icirc;n perspectivă și atitudine, lucrurile mai importante din viață.
 
-Și de a oferi resurse pentru a îndura și a prospera în viață, printre momente de durere și pierdere a oamenilor iubiți și a lucrurilor prețuite, a tinereții fericite și a sănătății puternice, a pierderii corpului și a minții.
+Și de a oferi resurse pentru a &icirc;ndura și a prospera &icirc;n viață, printre momente de durere și pierdere a oamenilor iubiți și a lucrurilor prețuite, a tinereții fericite și a sănătății puternice, a pierderii corpului și a minții.
 
 Aduceri aminte ființelor umane că permanența nu le-a fost oferită de existență.
 
-Luna a răsărit și a apus de mii de ori, soarele a răsărit și a apus de mii de ori, mareele au plictisit mările și au încercat să se prindă de țărmuri de miriade de ori, dându-le la fel de usor drumul de miriade de ori cum mătasea pierde mirosul pielii parfumate.
+Luna a răsărit și a apus de mii de ori, soarele a răsărit și a apus de mii de ori, mareele au plictisit mările și au &icirc;ncercat să se prindă de țărmuri de miriade de ori, d&acirc;ndu-le la fel de usor drumul de miriade de ori cum mătasea pierde mirosul pielii parfumate.
 
 Piatra a fost coruptă de memorie, iar oamenii au uitat că acestea erau statui ale lui Buddha, ale iluminării, simboluri ale capacității de a transcende instinctele, dorințele, lupta, războiului, cuvintele.
 
-Capricioasa uitare a învins tăria pietrei, iar oamenii au uitat că aceste artefacte ale amintirii de a trăi cu calm, empatie și respect pentru toate ființele și timpul lor acordat de viață sub soare, s-au stins.
+Capricioasa uitare a &icirc;nvins tăria pietrei, iar oamenii au uitat că aceste artefacte ale amintirii de a trăi cu calm, empatie și respect pentru toate ființele și timpul lor acordat de viață sub soare, s-au stins.
 
-Ca în trecut, așa și în prezent. Cunoaștem numele omului care a ordonat distrugerea acestor statui declarate idoli nesfinți în 2001, dar nu cunoaștem numele celor care le-au construit cu devotament și le prețuiau ca locuri de meditație pentru inspirație către o experiență mai profundă, semnificativă și calmă de a trăi ca ființe umane.
+Ca &icirc;n trecut, așa și &icirc;n prezent. Cunoaștem numele omului care a ordonat distrugerea acestor statui declarate idoli nesfinți &icirc;n 2001, dar nu cunoaștem numele celor care le-au construit cu devotament și le prețuiau ca locuri de meditație pentru inspirație către o experiență mai profundă, semnificativă și calmă de a trăi ca ființe umane.
 
-Se spune că prima generație construiește, a doua întreține, iar a treia distruge, neînțelegând valoarea sau relevanța lumii în care trăiește. Uneori nici nu-și mai amintește faptul că este o verigă din lanțul generațiilor.
+Se spune că prima generație construiește, a doua &icirc;ntreține, iar a treia distruge, ne&icirc;nțeleg&acirc;nd valoarea sau relevanța lumii &icirc;n care trăiește. Uneori nici nu-și mai amintește faptul că este o verigă din lanțul generațiilor.
 
-Prezentul devorează semnificația trecutului, în timp ce viitorul va învăța din brutalitatea prezentului, o brutalitate care ne-a însoțit toată istoria noastră. Tiranii sufocă istoria prin fier și foc, arzând în amintirile noastre faptele lor, în timp ce oamenii calmi le îndură ambițiile distructive încearcând să-și protejeze viața și sunt uitați.
+Prezentul devorează semnificația trecutului, &icirc;n timp ce viitorul va &icirc;nvăța din brutalitatea prezentului, o brutalitate care ne-a &icirc;nsoțit toată istoria noastră. Tiranii sufocă istoria prin fier și foc, arz&acirc;nd &icirc;n amintirile noastre faptele lor, &icirc;n timp ce oamenii calmi le &icirc;ndură ambițiile distructive &icirc;ncearc&acirc;nd să-și protejeze viața și sunt uitați.
 
-Să-ți amintești, de asemenea, de făcători de pace și să-i admiri cel puțin pe jumătate ca pe lorzii războiului din fiecare secol care ne captivează atât de mult atenția și fascinația. Deși statuile lui Buddha din Bamiyan au fost distruse și au fost supuse schimbării, timpul a fost mult mai generos cu ele decât cu autocrații și războaiele lor. Pacea și calmul persistă mereu mai mult ca războiul și ostilitatea.
+Să-ți amintești, de asemenea, de făcători de pace și să-i admiri cel puțin pe jumătate ca pe lorzii războiului din fiecare secol care ne captivează at&acirc;t de mult atenția și fascinația. Deși statuile lui Buddha din Bamiyan au fost distruse și au fost supuse schimbării, timpul a fost mult mai generos cu ele dec&acirc;t cu autocrații și războaiele lor. Pacea și calmul persistă mereu mai mult ca războiul și ostilitatea.
