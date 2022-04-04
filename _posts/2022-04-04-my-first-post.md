@@ -52,7 +52,7 @@ Force it is a much easier way, you just need to inspire others in that quest of 
 
 What lays outside of man can be conquered by force. What lays inside of man needs stillness and silence, just to appear from the veil of unconsciousness.
 
-What adventure and thrill lay upon the life of a man that searches in himself and not the world? That serenity to calm down the inner animal, to lay still and gaze into the abyss that resides between the shining stars and utter cosmic darkness? And then just breath in profound, and exhale long and accept it, without a fight, without fear, without hope, without a wish of permanence?
+![](/uploads/post-img-1.jpg){: .float-left-image width="3000" height="4441"}What adventure and thrill lay upon the life of a man that searches in himself and not the world? That serenity to calm down the inner animal, to lay still and gaze into the abyss that resides between the shining stars and utter cosmic darkness? And then just breath in profound, and exhale long and accept it, without a fight, without fear, without hope, without a wish of permanence?
 
 As a species that has struggled to advance up the food chain, our vision has little to do with this inner adventure. Human beings are rather captivated by the external adventure of life.
 
@@ -105,6 +105,8 @@ It is said that the first generation builds, the second maintains, and the third
 The present devours the significance of the past, while the future will learn from the brutality of the present, brutality that has accompanied us throughout our history. Tyrants suffocate history with iron and fire, imprinting their deeds in our memories, while calm people endure their destructive ambitions in an attempt to protect their lives and are forgotten.
 
 Also remember the peacemakers, and admire them at least half as the warlords of every century that captivate our attention and fascination so much. Although the Buddha statues in Bamiyan were destroyed and subjected to change, time was much more generous with them than with the autocrats and their wars. Peace and calm always persist more than war and hostility.
+
+![](/uploads/post-img-2.jpg){: width="6016" height="3384"}
 
 ​​
 
