@@ -142,7 +142,7 @@ Forța este o modalitate mult mai fermecătoare &icirc;n a ademenii și instiga 
 
 Ceea ce se află &icirc;n afara omului poate fi cucerit prin forță, dar ceea ce se află &icirc;năuntrul omului are nevoie de liniște și tăcere, doar pentru a apărea de sub voalul inconștienței.
 
-Ce aventură poate fi și ce fiori se pot afla &icirc;n viața unui om care caută &icirc;n sine și nu &icirc;n lume ca acel gimnosofist? Poate acea seninătate de a calma animalul interior, de a sta centrat &icirc;n sine privind &icirc;n &icirc;ntunericul cosmic care se află &icirc;ntre stelele strălucitoare, inspir&acirc;nd ad&acirc;nc și expir&acirc;nd lung și a accepta viața, fără luptă adversială, fără teamă, fără speranță, fără dorință sau semn de permanență.
+![](/uploads/post-img-1.jpg){: .float-left-image width="3000" height="4441"}Ce aventură poate fi și ce fiori se pot afla &icirc;n viața unui om care caută &icirc;n sine și nu &icirc;n lume ca acel gimnosofist? Poate acea seninătate de a calma animalul interior, de a sta centrat &icirc;n sine privind &icirc;n &icirc;ntunericul cosmic care se află &icirc;ntre stelele strălucitoare, inspir&acirc;nd ad&acirc;nc și expir&acirc;nd lung și a accepta viața, fără luptă adversială, fără teamă, fără speranță, fără dorință sau semn de permanență.
 
 Ca specie ce a luptat să avanseze &icirc;n lanțul trofic, puțin din viziunea noastră are de a face cu această aventură interioară. Ființele umane sunt mai degrabă captivate de aventură externă a vieții.
 
@@ -197,3 +197,5 @@ Se spune că prima generație construiește, a doua &icirc;ntreține, iar a trei
 Prezentul devorează semnificația trecutului, &icirc;n timp ce viitorul va &icirc;nvăța din brutalitatea prezentului, o brutalitate care ne-a &icirc;nsoțit toată istoria noastră. Tiranii sufocă istoria prin fier și foc, arz&acirc;nd &icirc;n amintirile noastre faptele lor, &icirc;n timp ce oamenii calmi le &icirc;ndură ambițiile distructive &icirc;ncearc&acirc;nd să-și protejeze viața și sunt uitați.
 
 Să-ți amintești, de asemenea, de făcători de pace și să-i admiri cel puțin pe jumătate ca pe lorzii războiului din fiecare secol care ne captivează at&acirc;t de mult atenția și fascinația. Deși statuile lui Buddha din Bamiyan au fost distruse și au fost supuse schimbării, timpul a fost mult mai generos cu ele dec&acirc;t cu autocrații și războaiele lor. Pacea și calmul persistă mereu mai mult ca războiul și ostilitatea.
+
+![](/uploads/post-img-2.jpg){: width="6016" height="3384"}
