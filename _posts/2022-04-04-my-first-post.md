@@ -24,7 +24,7 @@ seo:
 ---
 > EN
 
----
+&nbsp;
 
 ## The Statues of Buddha from Bamiyan and Autocrats
 
@@ -108,7 +108,7 @@ Also remember the peacemakers, and admire them at least half as the warlords of 
 
 > RO
 
----
+&nbsp;
 
 ## Statuile lui Buddha din Bamiyan și Autocrații
 
