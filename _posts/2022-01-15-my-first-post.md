@@ -14,6 +14,8 @@ seo:
 ---
 > EN
 
+&nbsp;
+
 ## The Statues of Buddha from Bamiyan and Autocrats
 
 &nbsp;
