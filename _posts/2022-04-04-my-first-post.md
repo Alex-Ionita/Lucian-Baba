@@ -104,6 +104,8 @@ Also remember the peacemakers, and admire them at least half as the warlords of 
 
 > RO
 
+&nbsp;
+
 ## Statuile lui Buddha din Bamiyan și Autocrații
 
 Coloane de praf s-au ridicat &icirc;n urma lor eclips&acirc;nd orizontul, &icirc;n timp ce v&acirc;rtejuri de v&acirc;nt dansau la marginile acestei mari armate cuceritoare. Valuri de trupe mărșăluiau băt&acirc;nd scuturile ca niște tobe, &icirc;n timp ce sandalele lor de piele loveau ritmic păm&acirc;ntul. Au călătorit mult, mult mai departe dec&acirc;t au crezut că o vor face vreodată și &icirc;ncă și mai departe dec&acirc;t imaginația lor vor merge, dincolo de hărțile lor, dincolo de marginile lumii lor cunoscute.
