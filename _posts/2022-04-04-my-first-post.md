@@ -30,6 +30,8 @@ seo:
 
 ---
 
+&nbsp;
+
 Columns of dust aroused high, eclipsing the horizon as whirlpools of winds danced at the edges of this great conquering army. Waves of marching troops drummed with shields, and leather sandals hitting the ground rhythmically. They have traveled far, farther than they thought they ever will, and still farther than their imagination will they march, beyond their maps, beyond the edges of their known world.
 
 But why march for years and years so far from home and relevance? For dreams of loot and plunder, gold and silver, slaves and burned ash cities? The hearts of drunken warriors and sheepish warmongers covet and lust for these trinkets and the lamentations they come with. No, these were no warriors of trivial desires for war and destruction. These were soldiers, battled hardened in tactics and strategies for many years. These were the soldiers of Alexandros the third of Makedon, basileus (king) of Makedon of the ancient bloodline of the Argead noble house, who later will be known to the world as Alexander the Great.
@@ -113,6 +115,8 @@ Also remember the peacemakers, and admire them at least half as the warlords of 
 ## Statuile lui Buddha din Bamiyan și Autocrații
 
 ---
+
+&nbsp;
 
 Coloane de praf s-au ridicat &icirc;n urma lor eclips&acirc;nd orizontul, &icirc;n timp ce v&acirc;rtejuri de v&acirc;nt dansau la marginile acestei mari armate cuceritoare. Valuri de trupe mărșăluiau băt&acirc;nd scuturile ca niște tobe, &icirc;n timp ce sandalele lor de piele loveau ritmic păm&acirc;ntul. Au călătorit mult, mult mai departe dec&acirc;t au crezut că o vor face vreodată și &icirc;ncă și mai departe dec&acirc;t imaginația lor vor merge, dincolo de hărțile lor, dincolo de marginile lumii lor cunoscute.
 
