@@ -5,9 +5,6 @@ description: >-
   Columns of dust aroused high, eclipsing the horizon as whirlpools of winds
   danced at the edges of this great conquering army. Waves of marching troops
   drummed with shields, and leather sandals hitting the ground rhythmically.
-  They have traveled far, farther than they thought they ever will, and still
-  farther than their imagination will they march, beyond their maps, beyond the
-  edges of their known world.
 author: Lucian Baba
 featured: true
 featured_image: /uploads/post-img-2.jpg
@@ -17,9 +14,6 @@ seo:
     Columns of dust aroused high, eclipsing the horizon as whirlpools of winds
     danced at the edges of this great conquering army. Waves of marching troops
     drummed with shields, and leather sandals hitting the ground rhythmically.
-    They have traveled far, farther than they thought they ever will, and still
-    farther than their imagination will they march, beyond their maps, beyond
-    the edges of their known world.
   keywords:
 ---
 > EN
