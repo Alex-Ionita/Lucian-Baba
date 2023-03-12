@@ -98,27 +98,27 @@ section { position: relative; }
 body {
     font-family: 'Open Sans', sans-serif;
     color: #c6d1db;
-    font-weight: 300;
+    font-weight: 600;
 }
 
 h1 {
     font-family: "Spartan", sans-serif;
     line-height: 1.1;
-    font-weight: 100;
+    font-weight: 500;
 }
 
 h2 {
     line-height: 1.1;
     margin-bottom: 3rem;
     font-family: "Spartan", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
 }
 
 h3, h4, h5, h6 {
     line-height: 1.1;
     margin-bottom: 3rem;
     font-family: "Spartan", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
 }
 
 h1 {font-size: 1.8rem;}
@@ -229,7 +229,7 @@ a:hover {
     font-family: "Bitter", serif;
     color: #202a3f;
     font-size: 0.9rem;
-    font-weight: 400;
+    font-weight: 700;
     border: 1.5px solid #c6d1db;
     padding: 0.5rem 1.5rem;
     border-radius: 50px;
@@ -384,6 +384,7 @@ form input, form textarea {
     font-size: 0.9rem;
     border-radius: 5px;
     transition: all 0.2s;
+    font-weight: 500;
 }
 
 form input:focus, form textarea:focus {
@@ -411,6 +412,7 @@ form button {
     background-color: #c6d1db;
     cursor: pointer;
     transition: all 0.2s;
+    font-weight: 700;
 }
 
 form button:hover {
@@ -457,7 +459,7 @@ form button:hover {
 /* Individual Blog Post Pages  */
 .blog-content h1 {
     font-family: 'Bitter', serif; 
-    font-weight: 200;
+    font-weight: 500;
     font-size: 3rem;
 }
 
