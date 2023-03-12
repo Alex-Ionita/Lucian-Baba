@@ -506,6 +506,10 @@ hr.short.center { margin: 1rem auto; }
     height: 20vh;
 }
 
+ul {
+    list-style-position: inside;
+}
+
 /******************** Responsive Styles ********************/
 
 .show-xs, 
